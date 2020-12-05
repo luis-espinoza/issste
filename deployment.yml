@@ -1,0 +1,28 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: poc-entregas-domiciliadas
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: poc-entregas-domiciliadas
+    spec:
+      containers:
+      - name: poc-entregas-domiciliadas
+        image: masamune.lkmx.io/portal-maypo/poc-entregas-domiciliadas:latest
+        readinessProbe:
+          httpGet:
+            path: /
+            port: 80
+          initialDelaySeconds: 15
+        resources:
+          requests:
+            memory: "64Mi"
+          limits:
+            memory: "127Mi"
+        ports:
+          - containerPort: 80
+      imagePullSecrets:
+        - name: masamune.lkmx.io

@@ -1,0 +1,31 @@
+form {
+
+  input {
+    font-family: $text-font;
+    padding: rem($gutter);
+    border: 1px solid $color-light-gray;
+    border-radius: rem(5px);
+  }
+
+  input[type="file"] {
+    display: none;
+  }
+
+  button {
+    padding: rem($gutter);
+    background-color: $color-green;
+    color: white;
+    border-radius: rem(5px);
+    font-size: rem(12px);
+    font-weight: bold;
+    text-transform: uppercase;
+
+    &:not(:disabled) {
+      cursor: pointer;
+    }
+
+    &:disabled {
+      opacity: 0.6;
+    }
+  }
+}

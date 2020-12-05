@@ -1,0 +1,32 @@
+@import "~@lkmx/flare-legacy/src/flare";
+@import "forms";
+
+html {
+  letter-spacing: 0.2px;
+}
+
+body {
+  background-color: $color-gray;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+button[primary] {
+  padding: rem($gutter);
+  background-color: $color-orange;
+  color: white;
+  border-radius: rem(5px);
+  font-size: rem(12px);
+  font-weight: bold;
+  text-transform: uppercase;
+
+  &:not(:disabled) {
+    cursor: pointer;
+  }
+
+  &:disabled {
+    opacity: 0.6;
+  }
+}

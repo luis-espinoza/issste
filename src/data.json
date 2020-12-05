@@ -1,0 +1,4082 @@
+[
+   [
+      "Avenida Universidad 410, San Cayetano, 20010 Aguascalientes, Ags., Mexico",
+      21.9018911,
+      -102.3074932
+   ],
+   [
+      "Calle Hermanos Galeana 305, Zona Centro, 20800 Calvillo, Ags., Mexico",
+      21.8471175,
+      -102.7206717
+   ],
+   [
+      "Calle Revolución 713, Popular, 20676 Pabellón de Arteaga, Ags., Mexico",
+      22.1413005,
+      -102.2780375
+   ],
+   [
+      "Gral. Álvaro Obregón, 20400 Rincón de Romos, Ags., Mexico",
+      22.2295026,
+      -102.3121461
+   ],
+   [
+      "Alameda, Villa Juárez, Ags., Mexico",
+      22.0887248,
+      -102.0743333
+   ],
+   [
+      "Juan Esteban 404, Col. las Canadas, San José de Gracia, Ags., Mexico",
+      22.150819,
+      -102.4159174
+   ],
+   [
+      "Vicente Guerrero 15, Centro, 20460 Cosío, Ags., Mexico",
+      22.3665191,
+      -102.3007055
+   ],
+   [
+      "Palo Alto, Aguascalientes, Mexico",
+      21.9166527,
+      -101.9632694
+   ],
+   [
+      "Calle del Hospital, Centro Cívico, 21000 Mexicali, B.C., Mexico",
+      32.644622,
+      -115.475683
+   ],
+   [
+      "Avenida Maríano Ma. Lee s/n, Vicente Guerrero, 21970 Vicente Guerrero, B.C., Mexico",
+      32.7178708,
+      -114.7283079
+   ],
+   [
+      "Baja California, Mexico",
+      32.3915997,
+      -115.2700432
+   ],
+   [
+      "Mar Caribe Sur, Campo Las Arenas, 21850 San Felípe, B.C., Mexico",
+      31.002421,
+      -114.8343748
+   ],
+   [
+      "Blvd. Diaz Ordaz 4141, San Carlos, 22360 Tijuana, B.C., Mexico",
+      32.5086193,
+      -116.9864524
+   ],
+   [
+      "Mulegé, Baja California Sur, Mexico",
+      26.8922164,
+      -111.9835831
+   ],
+   [
+      "Gral. Agustin Sanginés & Av. Dr Pedro Loyola, Militar, 22880 Ensenada, B.C., Mexico",
+      31.8503274,
+      -116.6091546
+   ],
+   [
+      "Calle Novena 137, Vivienda Magisterial, Mexicali, B.C., Mexico",
+      32.6049106,
+      -115.3888331
+   ],
+   [
+      "Nicolas Bravo, Zona Central, 23000 La Paz, B.C.S., Mexico",
+      24.1556949,
+      -110.3144226
+   ],
+   [
+      "Nicolas Bravo, La Paz, B.C.S., Mexico",
+      24.1483774,
+      -110.3040471
+   ],
+   [
+      "Lote 11, Paseo Malecon San Jose, Fonatur, Zona Hotelera, 23400 San José del Cabo, B.C.S., Mexico",
+      23.0467336,
+      -109.6945945
+   ],
+   [
+      "Avenida 20 de Noviembre, Cd Insurgentes, B.C.S., Mexico",
+      25.2646162,
+      -111.7780925
+   ],
+   [
+      "Paseo Nicolas Tamaral, Loreto, B.C.S., Mexico",
+      26.0131755,
+      -111.3528961
+   ],
+   [
+      "Adán G. Velarde & Municipio Libre, Cuauhtémoc, 23920 Santa Rosalía, B.C.S., Mexico",
+      27.3461518,
+      -112.2738425
+   ],
+   [
+      "El Vizcaíno Biosphere Reserve, Av. Profesor Domingo Carballo Félix, Marcelo Rubio Ruiz S/N, 23940 Guerrero Negro, B.C.S., Mexico",
+      27.9698548,
+      -114.0428907
+   ],
+   [
+      "Heroes de Chapultepec, Héroes de Chapultepec, 24030 Campeche, Camp., Mexico",
+      19.8245634,
+      -90.5640229
+   ],
+   [
+      "Calle 15 100, Concepción, 24903 Concepción, Camp., Mexico",
+      20.3723529,
+      -90.0491252
+   ],
+   [
+      "Calle 11, 24400 Champotón, Camp., Mexico",
+      19.3405329,
+      -90.7251026
+   ],
+   [
+      "Calle 28, 24350 Escárcega, Camp., Mexico",
+      18.604902,
+      -90.7403665
+   ],
+   [
+      "Calle 29, Hecelchakán, Camp., Mexico",
+      20.1707763,
+      -90.1382594
+   ],
+   [
+      "Calle 10, Tenabo, Camp., Mexico",
+      20.0474072,
+      -90.2215902
+   ],
+   [
+      "Calle 56, 24155 Cd del Carmen, Camp., Mexico",
+      18.6411607,
+      -91.786712
+   ],
+   [
+      "Blvd. Carlos Abedrop Dávila 1663, Nuevo Centro Metropolitano de Saltillo, 25000 Saltillo, Coah., Mexico",
+      25.4153415,
+      -100.9688328
+   ],
+   [
+      "Oscar Flores Tapia, Parras de la Fuente, Coah., Mexico",
+      25.4441484,
+      -102.1798492
+   ],
+   [
+      "Av Abasolo 470, Segundo de Cobián Centro, 27000 Torreón, Coah., Mexico",
+      25.542036,
+      -103.4436303
+   ],
+   [
+      "Av. Roble 801, Fraccionamiento La Salle, 25720 Monclova, Coah., Mexico",
+      26.928442,
+      -101.4212189
+   ],
+   [
+      "Avenida Lazaro Cardenas, Piedras Negras, Coah., Mexico",
+      28.6886691,
+      -100.5412394
+   ],
+   [
+      "Calle V. Guerrero 1490, Sin Nombre de Colonia, San Andrés, 26260 Cd Acuña, Coah., Mexico",
+      29.3138882,
+      -100.9313868
+   ],
+   [
+      "20 de Noviembre, Nueva Rosita, Coah., Mexico",
+      27.9324463,
+      -101.209851
+   ],
+   [
+      "Ignacio M. Altamirano 765, Prof Federico Berrueto Ramón, 26730 Sabinas, Coah., Mexico",
+      27.8564091,
+      -101.1228236
+   ],
+   [
+      "Fundadores de San Pedro 58, El Ancora, Sin Nombre de Col 2, 27800 San Pedro, Coah., Mexico",
+      25.7583103,
+      -103.0016403
+   ],
+   [
+      "Calle Antonio Caso & Calle Ignacio Sandoval, Lomas de Circunvalación, 28010 Colima, Col., Mexico",
+      19.2507668,
+      -103.7143568
+   ],
+   [
+      "Miguel Hidalgo 11, Centro, 28000 Centro, Col., Mexico",
+      18.9364107,
+      -103.964103
+   ],
+   [
+      "Calle Corregidora 20, Centro, 28750 Minatitlán, Col., Mexico",
+      19.3859216,
+      -104.0501657
+   ],
+   [
+      "Las Hadas 149, Álvaro Obregón, 28190 Tecomán, Col., Mexico",
+      18.9270641,
+      -103.8879984
+   ],
+   [
+      "Av. Parotas, Valle de Las Garzas, I, 28219 Manzanillo, Col., Mexico",
+      19.0892215,
+      -104.2947444
+   ],
+   [
+      "Libramiento Sur Pte 2950, Sin Nombre, Santa Elena, 29060 Tuxtla Gutiérrez, Chis., Mexico",
+      16.7482764,
+      -93.1438859
+   ],
+   [
+      "Av. Independencia 175, Centro, 68300 San Juan Bautista Tuxtepec, Oax., Mexico",
+      18.0806394,
+      -96.1206072
+   ],
+   [
+      "Julián Villagrán S/N, Morelos, 29215 San Cristóbal de las Casas, Chis., Mexico",
+      16.7520963,
+      -92.640745
+   ],
+   [
+      "Jiménez & De Abasolo N/A, Miguel Alemán, 30099 Comitán de Domínguez, Chis., Mexico",
+      16.2310402,
+      -92.1362779
+   ],
+   [
+      "Séptima Avenida Sur Pte., Terán, 29050 Tuxtla Gutiérrez, Chis., Mexico",
+      16.7469549,
+      -93.1659929
+   ],
+   [
+      "Avenida Universidad & Av. de las Américas, Ángel Trías, 31170 Chihuahua, Chih., Mexico",
+      28.6607167,
+      -106.0961886
+   ],
+   [
+      "Calle Vicente Guerrero, Robinson, 31370 Chihuahua, Chih., Mexico",
+      28.6536173,
+      -106.0325656
+   ],
+   [
+      "Calle Onceava 4416, Santa Rosa, 31050 Chihuahua, Chih., Mexico",
+      28.6287714,
+      -106.0567285
+   ],
+   [
+      "Internacional, Ojinaga, Chih., Mexico",
+      29.5610138,
+      -104.4047845
+   ],
+   [
+      "Zona Pronaf Condominio La Plata, 32315 Cd Juárez, Chih., Mexico",
+      31.742273,
+      -106.4538386
+   ],
+   [
+      "Av. del Parque Pte. 106, Norte, 33001 Delicias, Chih., Mexico",
+      28.1940007,
+      -105.4725797
+   ],
+   [
+      "Francisco Miranda y República de Cuba s/n, América, La Esmeralda, 33880 Hidalgo del Parral, Chih., Mexico",
+      26.9201592,
+      -105.6669615
+   ],
+   [
+      "a, celular y WhatsApp 614 2807074, Av División del Nte 2104, Altavista, 31200 Chihuahua, Chih., Mexico",
+      28.652351,
+      -106.0840878
+   ],
+   [
+      "Guadalupe y Calvo, Chihuahua, Mexico",
+      26.0902174,
+      -106.9651726
+   ],
+   [
+      "Guachochi, Chihuahua, Mexico",
+      26.8413258,
+      -107.0705632
+   ],
+   [
+      "SN, Domicilio Conocido, Centro, Guillermo Baca, 33500 San Francisco del Oro, Chih., Mexico",
+      26.8658502,
+      -105.8486475
+   ],
+   [
+      "Santa Bárbara, Chihuahua, Mexico",
+      26.8015438,
+      -105.8200578
+   ],
+   [
+      "B. Revilla, Valle de Ignacio Allende, Chih., Mexico",
+      26.932493,
+      -105.3950328
+   ],
+   [
+      "Nicolás Bravo, Valle de Zaragoza, Chih., Mexico",
+      27.4509319,
+      -105.8063542
+   ],
+   [
+      "a, celular y WhatsApp 614 2807074, Av División del Nte 2104, Altavista, 31200 Chihuahua, Chih., Mexico",
+      28.652351,
+      -106.0840878
+   ],
+   [
+      "Calle Coronado 1863, Centro, José Esteban Coronado, Chih., Mexico",
+      26.7374031,
+      -105.1580241
+   ],
+   [
+      "Sor Juana Inés de La Cruz & Ignacio Camargo, Centro, 33980 José Mariano Jiménez, Chih., Mexico",
+      27.1344964,
+      -104.9126258
+   ],
+   [
+      "Juan Aldama 1100, Zona Centro, 31500 Cd Cuauhtémoc, Chih., Mexico",
+      28.4077688,
+      -106.8590888
+   ],
+   [
+      "Camuchín, Urique, Chih., Mexico",
+      27.2104517,
+      -107.9170879
+   ],
+   [
+      "Namiquipa, Chihuahua, Mexico",
+      29.2497759,
+      -107.4129114
+   ],
+   [
+      "Centro, Chínipas de Almada, Chihuahua, Mexico",
+      27.3941742,
+      -108.5358841
+   ],
+   [
+      "Francisco I. Madero 604, Juárez, 31064 Juárez, Chih., Mexico",
+      28.6102235,
+      -106.0077756
+   ],
+   [
+      "Séptima, Matachí, Chih., Mexico",
+      28.8456854,
+      -107.7595421
+   ],
+   [
+      "Guerrero Municipality, Chihuahua, Mexico",
+      28.5472757,
+      -107.4824751
+   ],
+   [
+      "Guerrero 200, Centro, 31680 Guerrero, Chih., Mexico",
+      28.5487707,
+      -107.4828253
+   ],
+   [
+      "Ojinaga 706, Centro, 31940 Madera, Chih., Mexico",
+      29.1933023,
+      -108.1447143
+   ],
+   [
+      "81760, Av. Gral. Francisco Rafael Serrano S, Francisco R. Serrano, 81703 Choix, Sin., Mexico",
+      26.7167958,
+      -108.3237633
+   ],
+   [
+      "Gran Visión, Chihuahua, Mexico",
+      28.4277239,
+      -107.3793435
+   ],
+   [
+      "Socorro Rivera, Nicolás Bravo, Chih., Mexico",
+      29.3527306,
+      -107.9334971
+   ],
+   [
+      "Ciudad Madera, Chihuahua, Mexico",
+      29.1932973,
+      -108.1447314
+   ],
+   [
+      "Ciudad Juárez, Chihuahua, Mexico",
+      31.6903638,
+      -106.4245478
+   ],
+   [
+      "int 7, Enrique Creel S/N, Centro, 33200 Creel, Chih., Mexico",
+      27.7526492,
+      -107.6345759
+   ],
+   [
+      "Madera, Chihuahua, Mexico",
+      29.1907374,
+      -108.1422766
+   ],
+   [
+      "Camuchín, Urique, Chih., Mexico",
+      27.2104517,
+      -107.9170879
+   ],
+   [
+      "Calle Yepomera 101, Cd Juárez, Chih., Mexico",
+      31.6172812,
+      -106.4046685
+   ],
+   [
+      "Calle Veracruz 1167, Américas, 31210 Chihuahua, Chih., Mexico",
+      28.6481774,
+      -106.1182684
+   ],
+   [
+      "Gral. Rodrigo M. Quevedo 1005, Magisterial Universidad, 31200 Chihuahua, Chih., Mexico",
+      28.660671,
+      -106.093441
+   ],
+   [
+      "Del Prado & 20 de Nov., Centro, 31700 Nuevo Casas Grandes, Chih., Mexico",
+      30.4229281,
+      -107.9038607
+   ],
+   [
+      "A, Chihuahua-Miguel Ahumada 212, Zona Centro, 32800 Villa Ahumada, Chih., Mexico",
+      30.6084879,
+      -106.5156105
+   ],
+   [
+      "20 de Noviembre 1011, Progreso, Nuevo Casas Grandes, Chih., Mexico",
+      30.369401,
+      -107.9518987
+   ],
+   [
+      "Av Benito Juárez 500, Centro, 31896 Centro, Chih., Mexico",
+      29.8445138,
+      -107.468324
+   ],
+   [
+      "Madera, Chihuahua, Mexico",
+      29.1907374,
+      -108.1422766
+   ],
+   [
+      "Av. 12 Sur 902, Linda Vista, Delicias, Chih., Mexico",
+      28.1698369,
+      -105.4626908
+   ],
+   [
+      "Saucillo, Chihuahua, Mexico",
+      28.027181,
+      -105.2916729
+   ],
+   [
+      "Camargo, Chihuahua, Mexico",
+      27.6763786,
+      -105.166953
+   ],
+   [
+      "Predio Canoas, 34077 Durango, Dgo., Mexico",
+      24.0293883,
+      -104.6828337
+   ],
+   [
+      "Blvd. Miguel Alemán, Cd Lerdo, Dgo., Mexico",
+      25.5506808,
+      -103.5119311
+   ],
+   [
+      "Blvd. Miguel Alemán, Gómez Palacio, Dgo., Mexico",
+      25.5532159,
+      -103.4932943
+   ],
+   [
+      "Velino M. Preza 202, Los Ángeles, Durango, Dgo., Mexico",
+      24.0255689,
+      -104.6799118
+   ],
+   [
+      "Calz José Ramón Valdez, Altamira, 34635 Santiago Papasquiaro, Dgo., Mexico",
+      25.0481856,
+      -105.4200245
+   ],
+   [
+      "Paseo de La Ribera 275, Las Trojes, 36640 Irapuato, Gto., Mexico",
+      20.6881717,
+      -101.367051
+   ],
+   [
+      "Picacho 112, Centro, 36970 Abasolo, Gto., Mexico",
+      20.4458883,
+      -101.5261374
+   ],
+   [
+      "12 de Noviembre, Cuerámaro, Gto., Mexico",
+      20.6276553,
+      -101.6650394
+   ],
+   [
+      "Calle Diamante 30, Unión Libre Democratica, 38866 Moroleón, Gto., Mexico",
+      20.1254468,
+      -101.2079299
+   ],
+   [
+      "Pénjamo - Abasolo, Pénjamo, Gto., Mexico",
+      20.4277929,
+      -101.7076653
+   ],
+   [
+      "Uriangato, Guanajuato, Mexico",
+      20.1462015,
+      -101.178725
+   ],
+   [
+      "Pino Suárez, 38400 Valle de Santiago, Gto., Mexico",
+      20.3968113,
+      -101.202898
+   ],
+   [
+      "Fray Diego de Chávez, 38940 Yuriria, Gto., Mexico",
+      20.2114111,
+      -101.1301457
+   ],
+   [
+      "Juárez 122, Benito Juárez, 36470 Cd Manuel Doblado, Gto., Mexico",
+      20.735236,
+      -101.9522543
+   ],
+   [
+      "Reforma, Zona Centro, 36200 Romita, Gto., Mexico",
+      20.8729027,
+      -101.5194329
+   ],
+   [
+      "Tenochtitlan, San Francisco del Rincón, Gto., Mexico",
+      21.0103547,
+      -101.8598522
+   ],
+   [
+      "Álvaro Obregón Sur 1401, El Cerrito, 36790 Salamanca, Gto., Mexico",
+      20.5554514,
+      -101.1996559
+   ],
+   [
+      "Camino Al Cerro del Hormiguero, Guanajuato, Gto., Mexico",
+      21.0056648,
+      -101.2525781
+   ],
+   [
+      "Puente del río Batán, Rinconada Mercado Hidalgo, Centro, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto., Mexico",
+      21.1547212,
+      -100.9364431
+   ],
+   [
+      "San Diego de la Unión, Guanajuato, Mexico",
+      21.4683688,
+      -100.8705484
+   ],
+   [
+      "Libramiento Sur 815, Issste, 37900 San Luis de la Paz, Gto., Mexico",
+      21.2885572,
+      -100.5133124
+   ],
+   [
+      "Cuauhtémoc, 37980 San José Iturbide, Gto., Mexico",
+      21.0064292,
+      -100.3873597
+   ],
+   [
+      "Francisco I. Madero, Tierra Blanca, Gto., Mexico",
+      21.1012989,
+      -100.1582247
+   ],
+   [
+      "Álvaro Obregón 245a, Sin Nombre, 36122 Silao, Gto., Mexico",
+      20.9521203,
+      -101.4363556
+   ],
+   [
+      "Fulgencio Guerrero Soria, Dr Mora, Gto., Mexico",
+      21.1437037,
+      -100.3107148
+   ],
+   [
+      "Morelos 100, Xichú, Gto., Mexico",
+      21.2964331,
+      -100.0629351
+   ],
+   [
+      "37630, Principal 208, Centro, 37630 Ocampo, Guanajuato, Mexico",
+      21.6482948,
+      -101.4780436
+   ],
+   [
+      "San Felipe, Guanajuato, Mexico",
+      21.4788756,
+      -101.21588
+   ],
+   [
+      "Antiguo Camino a Pabileros, Silao, Gto., Mexico",
+      20.9567313,
+      -101.4177811
+   ],
+   [
+      "Av El Sauz, Celaya, Gto., Mexico",
+      20.5485884,
+      -100.8452062
+   ],
+   [
+      "Laurel 54, San Isidro, 38670 Acámbaro, Gto., Mexico",
+      20.024897,
+      -100.718263
+   ],
+   [
+      "1 de Mayo 122, Zona Centro, 38500 Apaseo el Alto, Gto., Mexico",
+      20.4577266,
+      -100.6214914
+   ],
+   [
+      "Iturbide 205, Zona Centro, 38160 Apaseo el Grande, Gto., Mexico",
+      20.5435859,
+      -100.6884569
+   ],
+   [
+      "Mercado Chamacuero, 38200, Morelos 14, Centro, 38200 Comonfort, Gto., Mexico",
+      20.7180605,
+      -100.7633394
+   ],
+   [
+      "Prolongación Manuel Doblado, Primero es Cortazar, 38315 Cortazar, Gto., Mexico",
+      20.4841704,
+      -100.9486866
+   ],
+   [
+      "5 de Febrero 115, El Mogote del Gallo, 38470 Jaral del Progreso, Gto., Mexico",
+      20.3718381,
+      -101.0766885
+   ],
+   [
+      "Jerécuaro, Guanajuato, Mexico",
+      20.1494259,
+      -100.5099262
+   ],
+   [
+      "Jose Vasconcelos 101, Zona Centro, 38240 Santa Cruz de Juventino Rosas, Gto., Mexico",
+      20.6412014,
+      -100.9847992
+   ],
+   [
+      "Juventino Rosas - Celaya, Guanajuato, Mexico",
+      20.5972835,
+      -100.905206
+   ],
+   [
+      "Francisco Javier Mina 108, Zona Centro, 38900 Salvatierra, Gto., Mexico",
+      20.2111596,
+      -100.8768833
+   ],
+   [
+      "Francisco José de Landeta 1, Insurgentes, 37745 San Miguel de Allende, Gto., Mexico",
+      20.901184,
+      -100.7207422
+   ],
+   [
+      "Ignacio Zaragoza 32, Santiago Maravatío, Gto., Mexico",
+      20.1708431,
+      -100.996096
+   ],
+   [
+      "16 de Septiembre 109, Zona Centro, 38790 Tarandacuao, Gto., Mexico",
+      20.0036268,
+      -100.5181478
+   ],
+   [
+      "I. Allende 12, Zona Centro, 38700 Tarimoro, Gto., Mexico",
+      20.2881987,
+      -100.756136
+   ],
+   [
+      "Blvrd Luis Donaldo Colosio Ponte #277, Revolucion, 38260 Villagrán, Gto., Mexico",
+      20.5180012,
+      -101.0004745
+   ],
+   [
+      "Av. Adolfo Ruiz Cortinez 124, CTM, 39610 Acapulco de Juárez, Gro., Mexico",
+      16.8728252,
+      -99.8872529
+   ],
+   [
+      "Av Ruffo Figueroa, Chilpancingo de los Bravo, Gro., Mexico",
+      17.5356902,
+      -99.4886262
+   ],
+   [
+      "Calle 6 Nte. 220, El Dulce Nombre, 41100 Chilapa de Álvarez, Gro., Mexico",
+      17.5938564,
+      -99.176
+   ],
+   [
+      "No. 3, Las Cruces, 39770 Acapulco de Juárez, Gro., Mexico",
+      16.8780347,
+      -99.8455997
+   ],
+   [
+      "Carretera Chilpancingo de los Bravo - Acapulco, Palo María 16, Palo Maria, Cuauhtemoc, Ocotito, Gro., Mexico",
+      17.2524933,
+      -99.5070194
+   ],
+   [
+      "Olinka, San Jose, Olinalá, Gro., Mexico",
+      17.7765178,
+      -98.7356115
+   ],
+   [
+      "México 95, Tierra Colorada, Gro., Mexico",
+      17.1678463,
+      -99.5250827
+   ],
+   [
+      "Insurgentes 105, Santuario, 39170 Tixtla de Guerrero, Gro., Mexico",
+      17.5616938,
+      -99.4053804
+   ],
+   [
+      "Huamuxtitlán, Guerrero, Mexico",
+      17.8020809,
+      -98.5647731
+   ],
+   [
+      "Calle Niños Heroes 37, San Antonio, Chilpancingo de los Bravo, Gro., Mexico",
+      17.5516189,
+      -99.4949364
+   ],
+   [
+      "La Sierra, 40160 Tepecoacuilco de Trujano, Gro., Mexico",
+      18.2820769,
+      -99.466573
+   ],
+   [
+      "Heroico Colegio Militar 3, Azucenas, 40054 Iguala de la Independencia, Gro., Mexico",
+      18.3400558,
+      -99.5224507
+   ],
+   [
+      "Miguel Hidalgo, Ajuchitlán del Progreso, Gro., Mexico",
+      18.1415321,
+      -100.5063301
+   ],
+   [
+      "Apaxtla de Castrejón, Guerrero, Mexico",
+      18.1315679,
+      -99.9325381
+   ],
+   [
+      "Lázaro Cárdenas, La Unión, 40730 Ajuchitlán del Progreso, Gro., Mexico",
+      18.14664,
+      -100.504405
+   ],
+   [
+      "Portillo Alvarado 95, Las Palmas, Buenavista de Cuéllar, Gro., Mexico",
+      18.4617704,
+      -99.408772
+   ],
+   [
+      "Colonia Cuauhtémoc, 06500 Mexico City, CDMX, Mexico",
+      19.4301322,
+      -99.1691413
+   ],
+   [
+      "Jaime Nuno, Cutzamala de Pinzón, Gro., Mexico",
+      18.4668857,
+      -100.5785618
+   ],
+   [
+      "Av Cedros, 40130 Huitzuco, Gro., Mexico",
+      18.297864,
+      -99.3350659
+   ],
+   [
+      "10 de Enero, Teloloapan, Gro., Mexico",
+      18.354417,
+      -99.8723594
+   ],
+   [
+      "Baltazar R. Leyva Mancilla 11, Centro, 40600 Tlapehuala, Gro., Mexico",
+      18.2394049,
+      -100.5397796
+   ],
+   [
+      "Cd Altamirano - Toluca 101, Reforma y FFCC Nacionales, 50090 Toluca de Lerdo, Méx., Mexico",
+      19.2897855,
+      -99.6414756
+   ],
+   [
+      "De Los Plateros 132, Barrio de Fundiciones, Taxco, Gro., Mexico",
+      18.5571507,
+      -99.5999971
+   ],
+   [
+      "Sonora, Ometepec, Gro., Mexico",
+      16.6911327,
+      -98.4118479
+   ],
+   [
+      "Solidaridad S/n, CTM, 39715 Acapulco de Juárez, Gro., Mexico",
+      16.871907,
+      -99.8871284
+   ],
+   [
+      "Primero de Mayo & Francisco Villa, Adolfo Lopez Mateos, 39470 Acapulco de Juárez, Gro., Mexico",
+      16.8593283,
+      -99.9204384
+   ],
+   [
+      "Silvestre Mariscal, Atoyac de Álvarez, Gro., Mexico",
+      17.2081502,
+      -100.4389536
+   ],
+   [
+      "Calle José López Portillo Manzana 10 Lte 13, Col, José López Portillo, Emiliano Zapata, 39700 Acapulco de Juárez, Gro., Mexico",
+      16.9017641,
+      -99.8428066
+   ],
+   [
+      "Sin Nombre, 39200 Ayutla de los Libres, Gro., Mexico",
+      16.9607035,
+      -99.0993703
+   ],
+   [
+      "Josefa Ortiz de Domínguez, Centro, Coyuca de Benítez, Gro., Mexico",
+      17.0107937,
+      -100.0889576
+   ],
+   [
+      "Juan N. Álvarez 1, Sultana del Sur, 41800 Cruz Grande, Gro., Mexico",
+      16.7166236,
+      -99.123723
+   ],
+   [
+      "Hermenegildo Galeana, Cuajinicuilapa, Gro., Mexico",
+      16.4678667,
+      -98.4045019
+   ],
+   [
+      "20 de Nov., Las Cruces, 39770 Acapulco de Juárez, Gro., Mexico",
+      16.8840079,
+      -99.8592503
+   ],
+   [
+      "Azoyú, Guerrero, Mexico",
+      16.7325349,
+      -98.6034009
+   ],
+   [
+      "Tecpan de Galeana - Petatlán, Guerrero, Mexico",
+      17.2725974,
+      -100.9497113
+   ],
+   [
+      "Progreso, Acapulco de Juárez, Gro., Mexico",
+      16.865584,
+      -99.8976241
+   ],
+   [
+      "Playa Larga, San Luis Acatlán, Gro., Mexico",
+      16.8109499,
+      -98.7329507
+   ],
+   [
+      "Acapulco - San Marcos, Guerrero, Mexico",
+      16.8238606,
+      -99.699628
+   ],
+   [
+      "Benito Juárez, Tecoanapa, Gro., Mexico",
+      16.9877542,
+      -99.2648763
+   ],
+   [
+      "20 de Noviembre, Xaltianguis, Gro., Mexico",
+      17.0993435,
+      -99.7156111
+   ],
+   [
+      "Tecpán de Galeana, Guerrero, Mexico",
+      17.2195397,
+      -100.6297054
+   ],
+   [
+      "Av Costera Miguel Alemán 2412, Deportivo, 39690 Acapulco de Juárez, Gro., Mexico",
+      16.8558506,
+      -99.8600608
+   ],
+   [
+      "México 95, Acapulco de Juárez, Gro., Mexico",
+      16.8779183,
+      -99.8444999
+   ],
+   [
+      "Ciudad Altamirano, Guerrero, Mexico",
+      18.3578156,
+      -100.6686262
+   ],
+   [
+      "Mangos, El Cerrito, 40900 Técpan de Galeana, Gro., Mexico",
+      17.2045833,
+      -100.6286874
+   ],
+   [
+      "Contlalco, Tlapa, Gro., Mexico",
+      17.5525384,
+      -98.5549344
+   ],
+   [
+      "Ixmiquilpan-Actopan 200, Benito Juárez, 42500 Actopan, Hgo., Mexico",
+      20.2708927,
+      -98.9499962
+   ],
+   [
+      "Hidalgo Poniente, San Miguel del Arco, 43904 Apan, Hgo., Mexico",
+      19.7109508,
+      -98.4445337
+   ],
+   [
+      "San Miguel, 43300 Atotonilco el Grande, Hgo., Mexico",
+      20.2809851,
+      -98.6721778
+   ],
+   [
+      "Calle 2 de Febrero, El Calvario, Metztitlán, Hgo., Mexico",
+      20.5973781,
+      -98.7669091
+   ],
+   [
+      "42130 CAMPO JUNIOR S/N, Purero, 42130 Mineral del Monte, Hgo., Mexico",
+      20.1335372,
+      -98.6740951
+   ],
+   [
+      "Centro, Tepeapulco, Hgo., Mexico",
+      19.7840777,
+      -98.5549344
+   ],
+   [
+      "Calle Francisco I. Madero, Tizayuca, Hgo., Mexico",
+      19.8579089,
+      -98.9578821
+   ],
+   [
+      "Héroes de la Revolución Mexicana, Zacualtipán, Hgo., Mexico",
+      20.6550597,
+      -98.6580916
+   ],
+   [
+      "Eduardo Vera Gutiérrez, Centro Zapotlán, Zapotlán de Juárez, Hgo., Mexico",
+      19.9734208,
+      -98.8637246
+   ],
+   [
+      "Real del Monte 3, Centro Minero, 42083 Pachuca de Soto, Hgo., Mexico",
+      20.0903095,
+      -98.7689425
+   ],
+   [
+      "Pico de Orizaba 154, Nuevo Hidalgo, 42036 Pachuca de Soto, Hgo., Mexico",
+      20.1213544,
+      -98.7608469
+   ],
+   [
+      "Ixmiquilpan, Hgo., Mexico",
+      20.4831412,
+      -99.2171174
+   ],
+   [
+      "Coronel Sóstenes Vega, 42400 Huichapan, Hgo., Mexico",
+      20.3802596,
+      -99.6518122
+   ],
+   [
+      "La Pila, Jacala, Hgo., Mexico",
+      21.0083002,
+      -99.1885156
+   ],
+   [
+      "Coronel Sóstenes Vega, 42400 Huichapan, Hgo., Mexico",
+      20.3802596,
+      -99.6518122
+   ],
+   [
+      "Fernando Soto, Tasquillo, Hgo., Mexico",
+      20.5524573,
+      -99.3127645
+   ],
+   [
+      "20 de Noviembre Sur, Morelos, Tecozautla, Hgo., Mexico",
+      20.5258429,
+      -99.6354838
+   ],
+   [
+      "Centro, 42330 Zimapán, Hgo., Mexico",
+      20.7400038,
+      -99.3825721
+   ],
+   [
+      "Tulancingo, Hgo., Mexico",
+      20.0904802,
+      -98.3690922
+   ],
+   [
+      "Bachilleres, La Olímpica, Tenango de Doria, Hgo., Mexico",
+      20.3368356,
+      -98.2241674
+   ],
+   [
+      "Carr. Federal Mexico-Tampico Km. 215, Santa Irene, 43000 Huejutla, Hgo., Mexico",
+      21.1416596,
+      -98.4130503
+   ],
+   [
+      "Huautla, Hgo., Mexico",
+      21.033266,
+      -98.2865942
+   ],
+   [
+      "Vicente Suárez, Loma Bonita, 43020 Orizatlán, Hgo., Mexico",
+      21.1679545,
+      -98.6078102
+   ],
+   [
+      "México - Tampico, Tlanchinol, Hgo., Mexico",
+      20.9895089,
+      -98.661519
+   ],
+   [
+      "Cuauhtémoc 829, Tlala, Calnali, Hgo., Mexico",
+      20.8967967,
+      -98.5829349
+   ],
+   [
+      "La Corregidora, Molango, Hgo., Mexico",
+      20.7850513,
+      -98.7292062
+   ],
+   [
+      "HGO, Xochicoatlán, Hgo., Mexico",
+      20.7743722,
+      -98.6827446
+   ],
+   [
+      "Felipe Ángeles 20, La Estación, Chapulhuacán, Hgo., Mexico",
+      21.1574378,
+      -98.906827
+   ],
+   [
+      "Calle Plan de Ayala, 42700 Mixquiahuala de Juárez, Hgo., Mexico",
+      20.2296547,
+      -99.2066972
+   ],
+   [
+      "Alamo 1, I Demarcación, Tepatepec, Hgo., Mexico",
+      20.2411583,
+      -99.0857509
+   ],
+   [
+      "Ignacio Ramírez, 42854 Tepeji del Rio de Ocampo, Hgo., Mexico",
+      19.89991,
+      -99.3454903
+   ],
+   [
+      "Belisario Domínguez, Tezontepec de Aldama, Hgo., Mexico",
+      20.1930162,
+      -99.2725974
+   ],
+   [
+      "Av Francisco i Madero, Tlaxcoapan, Hgo., Mexico",
+      20.0923471,
+      -99.2120741
+   ],
+   [
+      "Prol 20 de Nov, Alvarado, Tula de Allende, Hgo., Mexico",
+      20.0504315,
+      -99.3511178
+   ],
+   [
+      "Calle Monte Alban 978, Independencia Oriente, 44340 Guadalajara, Jal., Mexico",
+      20.688296,
+      -103.3296044
+   ],
+   [
+      "Calle Gral. Eulogio Parra 1700, Santa Teresita, 44600 Guadalajara, Jal., Mexico",
+      20.6871127,
+      -103.3692572
+   ],
+   [
+      "Calle Juan Suarez de Peralta 3055, Vicente Guerrero, 44860 Guadalajara, Jal., Mexico",
+      20.6486442,
+      -103.2968409
+   ],
+   [
+      "Av Jalisco 120, La Adelita, 47410 Lagos de Moreno, Jal., Mexico",
+      21.3744472,
+      -101.928418
+   ],
+   [
+      "Insurgentes Sur 159, Valle del Sol, 49051 Cd Guzman, Jal., Mexico",
+      19.7070855,
+      -103.4712156
+   ],
+   [
+      "Domingo Pérez 117, 48900 Autlán de Navarro, Jal., Mexico",
+      19.7683931,
+      -104.3807546
+   ],
+   [
+      "Av. Francisco Villa, Puerto Vallarta, Jal., Mexico",
+      20.6425199,
+      -105.2209186
+   ],
+   [
+      "Calle Daniel Espinoza SN, Jesus Jimenez Gallardo, 52167 Metepec, Méx., Mexico",
+      19.2569209,
+      -99.635875
+   ],
+   [
+      "Amatepec, Méx., Mexico",
+      18.6862345,
+      -100.1878356
+   ],
+   [
+      "Ing. Luis Galindo Ruiz, 50450 Atlacomulco, Méx., Mexico",
+      19.7891404,
+      -99.8746956
+   ],
+   [
+      "Isidro Fabela, Ixtapan de la Sal, 51900 Ixtapan de la Sal, Méx., Mexico",
+      18.8438309,
+      -99.6835047
+   ],
+   [
+      "Valentín Gómez Farias, Ixtlahuaca, 50740 Ixtlahuaca de Rayón, Méx., Mexico",
+      19.5658443,
+      -99.763324
+   ],
+   [
+      "Lic. José Vasconcelos, Jilotepec de Andres Molina Enriquez, 54240 Jilotepec de Molina Enríquez, Méx., Mexico",
+      19.9521238,
+      -99.5446017
+   ],
+   [
+      "Tenancingo Municipality, State of Mexico, Mexico",
+      18.9613103,
+      -99.5910596
+   ],
+   [
+      "Valle de Bravo, State of Mexico, Mexico",
+      19.1950964,
+      -100.1326725
+   ],
+   [
+      "Prol. Matamoros, Polotitlán, Méx., Mexico",
+      20.2242868,
+      -99.8160646
+   ],
+   [
+      "Don Gervacio Contreras Gasca, San Felipe del Progreso, Méx., Mexico",
+      19.7133772,
+      -99.9576297
+   ],
+   [
+      "Gustavo Bazs/n, Los Cipreses, Tianguistenco de Galeana, 52600 Santiago Tianguistenco, Méx., Mexico",
+      19.1733031,
+      -99.4663342
+   ],
+   [
+      "Tlatlaya, State of Mexico, Mexico",
+      18.6158486,
+      -100.2082716
+   ],
+   [
+      "Blvd. de los Deportes, Tejupilco, 51400 Tejupilco de Hidalgo, Méx., Mexico",
+      18.8965889,
+      -100.1439218
+   ],
+   [
+      "San José Villa de Allende, State of Mexico, Mexico",
+      19.3735634,
+      -100.1471986
+   ],
+   [
+      "Lerma de Villada, State of Mexico, Mexico",
+      19.2895865,
+      -99.5117391
+   ],
+   [
+      "Av. Independencia, Estado de México, Mexico",
+      19.4411921,
+      -99.5346145
+   ],
+   [
+      "Acueducto Santiago- Ocoyoacac s/n, Parque Industrial, 52740 Ocoyoacac, Méx., Mexico",
+      19.2765012,
+      -99.4829279
+   ],
+   [
+      "Gral. Anaya, 52700 Capulhuac de Mirafuentes, Méx., Mexico",
+      19.1971505,
+      -99.4660835
+   ],
+   [
+      "Valle de Bravo, San Miguel Zinacantepec, Méx., Mexico",
+      19.2981222,
+      -99.7522461
+   ],
+   [
+      "Isabel La Católica s/n, El Calvario, 55000 Ecatepec de Morelos, Méx., Mexico",
+      19.6015076,
+      -99.0511491
+   ],
+   [
+      "Av Valle del Yukon & Valle de Bardagí, Valle de Aragon 1ra Secc, 57100 Nezahualcóyotl, Méx., Mexico",
+      19.4923247,
+      -99.0639902
+   ],
+   [
+      "Avenida Lomas Verdes 1, Los Alamos, 53230 Naucalpan de Juárez, Méx., Mexico",
+      19.4986539,
+      -99.2509736
+   ],
+   [
+      "Av. Chilpancingo SN, Ceylan, 54150 Tlalnepantla de Baz, Méx., Mexico",
+      19.5336697,
+      -99.1758584
+   ],
+   [
+      "Loc. 1, Av de los Reyes 10, Centro Urbano, 54760 Cuautitlán Izcalli, Méx., Mexico",
+      19.6506186,
+      -99.2082137
+   ],
+   [
+      "Av Bordo de Xochiaca, Mexico",
+      19.4223403,
+      -99.0205975
+   ],
+   [
+      "Silverio Pérez & Calle Leandro Valle, San Pedro, 56100 Texcoco, Méx., Mexico",
+      19.5092973,
+      -98.8863017
+   ],
+   [
+      "5 de Febrero, Chalco de Díaz Covarrubias, Méx., Mexico",
+      19.2688228,
+      -98.8921064
+   ],
+   [
+      "Av. Via Morelos, Ecatepec de Morelos, Méx., Mexico",
+      19.5245017,
+      -99.0817492
+   ],
+   [
+      "Calle Laguna de 7 Colores 233, Miguel Hidalgo, 50100 Toluca de Lerdo, Méx., Mexico",
+      19.287082,
+      -99.690271
+   ],
+   [
+      "Morelia, Michoacán, Mexico",
+      19.7059504,
+      -101.1949825
+   ],
+   [
+      "Calle Estocolmo 688, Fovissste, Aguacates, 60160 Uruapan, Mich., Mexico",
+      19.3956165,
+      -102.0487664
+   ],
+   [
+      "Francisco I. Madero Ote., Apatzingán de la Constitución, Mich., Mexico",
+      19.0954719,
+      -102.3536845
+   ],
+   [
+      "Lázaro Cárdenas Sur, Nueva Italia, Mich., Mexico",
+      19.0096072,
+      -102.0994085
+   ],
+   [
+      "Nigromante 500, Peña, 59389 La Piedad de Cavadas, Mich., Mexico",
+      20.3444732,
+      -102.0397882
+   ],
+   [
+      "Gral. Pueblita Sur 18, Poetas, 61503 Zitácuaro, Mich., Mexico",
+      19.4312419,
+      -100.3474903
+   ],
+   [
+      "Río Balsas 18, San Antonio Tomatlán, 61940 Huetamo de Núñez, Mich., Mexico",
+      18.6172734,
+      -100.9012167
+   ],
+   [
+      "Vidal Solis 58, Rosa de Castilla, 61166 Cd Hidalgo, Mich., Mexico",
+      19.6852116,
+      -100.5524264
+   ],
+   [
+      "Educación 662, Issste, 59688 Zamora de Hidalgo, Mich., Mexico",
+      19.9736358,
+      -102.2886931
+   ],
+   [
+      "16 de Septiembre 437, Centro, 60330 Centro, Mich., Mexico",
+      19.5941747,
+      -102.4729589
+   ],
+   [
+      "Lic. Antonio Arriaga Ochoa, Pátzcuaro, Mich., Mexico",
+      19.5068465,
+      -101.6188663
+   ],
+   [
+      "Pino Suárez 351, Centro, 61650 Tacámbaro de Codallos, Mich., Mexico",
+      19.2340091,
+      -101.4539176
+   ],
+   [
+      "Ario Patzcuaro, 61830 Ario de Rosales, Mich., Mexico",
+      19.2163314,
+      -101.6958043
+   ],
+   [
+      "Salustio Amezcua, 59099 Sahuayo de Morelos, Mich., Mexico",
+      20.0506122,
+      -102.7182698
+   ],
+   [
+      "Gildardo Magaña & Adolfo Ruiz Cortines, Quinta la Selva, 59512 Jiquilpan de Juárez, Mich., Mexico",
+      19.9982265,
+      -102.712871
+   ],
+   [
+      "Morelos, Lázaro Cárdenas, Mich., Mexico",
+      17.9593231,
+      -102.2043507
+   ],
+   [
+      "Emiliano Zapata 150, La Castañeda, 60920 Arteaga, Mich., Mexico",
+      18.3561768,
+      -102.2854708
+   ],
+   [
+      "Rayon, Tercero, 60800 Coahuayana de Hidalgo, Mich., Mexico",
+      18.7015859,
+      -103.665574
+   ],
+   [
+      "Avenida Universidad 784, Miguel Ángel de Quevedo, 58660 Zacapu, Mich., Mexico",
+      19.8011984,
+      -101.7950846
+   ],
+   [
+      "Trabajadores de Agricultura, Morelia, Mich., Mexico",
+      19.7277522,
+      -101.1812515
+   ],
+   [
+      "Primera 7, Eusebio Jauregui, 62749 Cuautla, Mor., Mexico",
+      18.834828,
+      -98.9635198
+   ],
+   [
+      "Emiliano Zapata SN, Leandro Valle, 62930 Jonacatepec, Mor., Mexico",
+      18.6769301,
+      -98.7942758
+   ],
+   [
+      "Niño Artillero 13, Casasano, 62749 Cuautla, Mor., Mexico",
+      18.8507266,
+      -98.960513
+   ],
+   [
+      "Carretera Federal, Carr. Xochimilco - Oaxtepec Km 64.200, Santa Ana, 62540 Tlayacapan, Mor., Mexico",
+      18.9624992,
+      -98.9852962
+   ],
+   [
+      "Proculo Capistrán, Centro, 62700 Cd Ayala, Mor., Mexico",
+      18.7633465,
+      -98.9822162
+   ],
+   [
+      "Paseo Tlahuica, Unidad Habitacional La Ceiba, 6, Emiliano Zapata, 62733 Yautepec de Zaragoza, Mor., Mexico",
+      18.874323,
+      -99.0752254
+   ],
+   [
+      "Yecapixtla, Morelos, Mexico",
+      18.8782827,
+      -98.8610882
+   ],
+   [
+      "Calle Hidalgo 23, Zacualpan de Amilpas, Mor., Mexico",
+      18.7881223,
+      -98.7750168
+   ],
+   [
+      "Miguel Hidalgo 23, Santiago, 62800 Tetela, Mor., Mexico",
+      18.8955794,
+      -98.7310592
+   ],
+   [
+      "Calle Galeana 133, Centro, 62950 Axochiapan, Mor., Mexico",
+      18.504106,
+      -98.755874
+   ],
+   [
+      "Álvaro Obregón 335, Cuernavaca Centro, Centro, 62000 Cuernavaca, Mor., Mexico",
+      18.9295299,
+      -99.2404558
+   ],
+   [
+      "Benito Juárez, 62640 Amacuzac, Mor., Mexico",
+      18.5985387,
+      -99.3666669
+   ],
+   [
+      "5 de Mayo 16, Las Granjas, 62460 Jiutepec, Mor., Mexico",
+      18.9074819,
+      -99.196848
+   ],
+   [
+      "5 de Mayo 16, Las Granjas, 62460 Jiutepec, Mor., Mexico",
+      18.9074819,
+      -99.196848
+   ],
+   [
+      "Sor Juana Inés de La Cruz, 62663 Puente de Ixtla, Mor., Mexico",
+      18.6141921,
+      -99.314009
+   ],
+   [
+      "C. Nueva Inglaterra, Cuernavaca, Mor., Mexico",
+      18.951482,
+      -99.2260545
+   ],
+   [
+      "Calle Emiliano Zapata, Centro, 62580 Temixco, Mor., Mexico",
+      18.8475247,
+      -99.2229973
+   ],
+   [
+      "Tepoztlán, Morelos, Mexico",
+      18.9848015,
+      -99.0930528
+   ],
+   [
+      "Calle Francisco I. Madero, Tetecala, Mor., Mexico",
+      18.7301705,
+      -99.3930379
+   ],
+   [
+      "20 de Nov., Gabriel Tepepa, 62983 Tlaquiltenango, Mor., Mexico",
+      18.6334039,
+      -99.1669714
+   ],
+   [
+      "5 de Febrero, 62770 Tlaltizapán, Mor., Mexico",
+      18.6880795,
+      -99.1158954
+   ],
+   [
+      "Av. Lázaro Cárdenas, No. 1, Centro, 62510 Huitzilac, Mor., Mexico",
+      19.029039,
+      -99.2674728
+   ],
+   [
+      "Cuevas, Xochitepec, Mor., Mexico",
+      18.7860082,
+      -99.2291697
+   ],
+   [
+      "José María Morelos 61, Gobernadores, 62663 Puente de Ixtla, Mor., Mexico",
+      18.6095942,
+      -99.3181623
+   ],
+   [
+      "Tecnológico 27, Plan de Ayala, 62780 Zacatepec de Hidalgo, Mor., Mexico",
+      18.6532809,
+      -99.1844064
+   ],
+   [
+      "Nicolás Bravo, Centro, 62900 Jojutla de Juárez, Mor., Mexico",
+      18.6177142,
+      -99.177472
+   ],
+   [
+      "Av. Paseo de la Loma N/A, Fray Junípero Serra, 63000 Tepic, Nay., Mexico",
+      21.5020004,
+      -104.8977449
+   ],
+   [
+      "Acaponeta, Nayarit, Mexico",
+      22.4959544,
+      -105.3628846
+   ],
+   [
+      "63440 Tecuala, Nayarit, Mexico",
+      22.3965755,
+      -105.4595306
+   ],
+   [
+      "A La Entrada Del Pueblo N/A, 63660 Tuxpan, Nay., Mexico",
+      21.989966,
+      -105.392646
+   ],
+   [
+      "Sonora E Hidalgo N/A, Centro, 63630 Rosamorada, Nay., Mexico",
+      22.1200823,
+      -105.2049018
+   ],
+   [
+      "Ruiz, Nayarit, Mexico",
+      21.950564,
+      -105.1434387
+   ],
+   [
+      "Zaragoza Pte., 63440 Tecuala, Nay., Mexico",
+      22.3945371,
+      -105.4600449
+   ],
+   [
+      "Tuxpan, Nayarit, Mexico",
+      21.9409714,
+      -105.3009303
+   ],
+   [
+      "Prisciliano Sánchez 30, Arboledas San Carlos, Centro, 63430 Acaponeta, Nay., Mexico",
+      22.4904003,
+      -105.3700626
+   ],
+   [
+      "Calle Andador Santa Cruz S/N, Fovissste 1er Etapa, Cddee, 63119 Tepic, Nay., Mexico",
+      21.5176921,
+      -104.9157981
+   ],
+   [
+      "Avakatlan, Nayarit, Mexico",
+      21.0533791,
+      -104.4810648
+   ],
+   [
+      "Francisco I. Madero 9, Amatlán de Cañas, Nay., Mexico",
+      20.8080023,
+      -104.4059261
+   ],
+   [
+      "Librado Rivera, 63704 Compostela, Nay., Mexico",
+      21.2285388,
+      -104.9065429
+   ],
+   [
+      "Juan de Dios Peza 164, Everardo Peña Navarro, 63959 Ixtlán del Río, Nay., Mexico",
+      21.0413752,
+      -104.3711869
+   ],
+   [
+      "Calle Hidalgo SN, San Jose, 63715 Compostela, Nay., Mexico",
+      21.2465796,
+      -104.9037223
+   ],
+   [
+      "Veracruz 142, Independencia, Jala, Nay., Mexico",
+      21.1000142,
+      -104.4349178
+   ],
+   [
+      "San Blas, Nayarit, Mexico",
+      21.541297,
+      -105.2847231
+   ],
+   [
+      "Bahía de Guaymas Sur, 63720 La Peñita de Jaltemba, Nay., Mexico",
+      21.0380156,
+      -105.2485559
+   ],
+   [
+      "Conocido, San Juan de Abajo, 63730 San Juan de Abajo, Nay., Mexico",
+      20.8232205,
+      -105.1876364
+   ],
+   [
+      "Calle Donato Guerra 8, Centro, Nay., Mexico",
+      21.3327848,
+      -104.5857494
+   ],
+   [
+      "Santiago Ixcuintla, Nayarit, Mexico",
+      21.8131863,
+      -105.204327
+   ],
+   [
+      "Mérida 27, Villa de Guadalupe, 63550 Villa Hidalgo, Nay., Mexico",
+      21.7395003,
+      -105.2290977
+   ],
+   [
+      "San Blas, Nayarit, Mexico",
+      21.541297,
+      -105.2847231
+   ],
+   [
+      "San Blas, Nayarit, Mexico",
+      21.541297,
+      -105.2847231
+   ],
+   [
+      "Constitución 1500, Centro, 64000 Monterrey, N.L., Mexico",
+      25.6688231,
+      -100.3372169
+   ],
+   [
+      "Félix Contreras, Aramberri, N.L., Mexico",
+      24.1020221,
+      -99.8156022
+   ],
+   [
+      "Bravo 205 Poniente Centro N/A, Centro de Allende, 67350 Cd de Allende, N.L., Mexico",
+      25.2791129,
+      -100.0196601
+   ],
+   [
+      "Constitución 1881, Obispado, 64460 Monterrey, N.L., Mexico",
+      25.6693874,
+      -100.3406604
+   ],
+   [
+      "López Mateos 301, Galindo, 67450 Cadereyta Jiménez, N.L., Mexico",
+      25.5902037,
+      -100.0119732
+   ],
+   [
+      "Maíz 500, Obrera, 65030 Anáhuac, N.L., Mexico",
+      27.2415491,
+      -100.1270137
+   ],
+   [
+      "Calle Miguel Hidalgo 210, 67050 China, N.L., Mexico",
+      25.7063754,
+      -99.2377256
+   ],
+   [
+      "Dr. Arroyo - Mier y Noriega 30, Centro de Dr.arroyo, Centro 2do Sector, 67900 Dr Arroyo, N.L., Mexico",
+      23.6695664,
+      -100.1835604
+   ],
+   [
+      "Galeana, Nuevo Leon, Mexico",
+      24.8254612,
+      -100.077366
+   ],
+   [
+      "5 de Mayo SN-S, Gral. Bravo, 67000 Gral Bravo, N.L., Mexico",
+      25.7936029,
+      -99.1810303
+   ],
+   [
+      "67400, Calle Miguel Hidalgo y Costilla 1000, Centro de Gral Terán, 67400 Cd Gral Terán, N.L., Mexico",
+      25.2588666,
+      -99.6788012
+   ],
+   [
+      "Iturbide, Nuevo Leon, Mexico",
+      24.7278966,
+      -99.9058521
+   ],
+   [
+      "Mariano Escobedo SN, Centro, 67940 Aramberri, N.L., Mexico",
+      24.1007329,
+      -99.8173463
+   ],
+   [
+      "Reynosa S/n, Tamaulipas, 67190 Guadalupe, N.L., Mexico",
+      25.6652554,
+      -100.1406764
+   ],
+   [
+      "65070 Lampazos de Naranjo, Nuevo Leon, Mexico",
+      27.0244594,
+      -100.5080126
+   ],
+   [
+      "Rayon 205, Del Maestro, 67510 Montemorelos, N.L., Mexico",
+      25.1897232,
+      -99.8374
+   ],
+   [
+      "Matamoros, Tamaulipas, Mexico",
+      25.8690294,
+      -97.5027376
+   ],
+   [
+      "Av. Miguel Alemán, Nuevo León, Mexico",
+      25.6968601,
+      -100.2296596
+   ],
+   [
+      "Iturbide 1000, Centro de Sabinas Hidalgo, 65200 Sabinas Hidalgo, N.L., Mexico",
+      26.5050019,
+      -100.1902239
+   ],
+   [
+      "Morelos 112, Santiago, 67300 Santiago, N.L., Mexico",
+      25.4240119,
+      -100.1518604
+   ],
+   [
+      "Nicolás Bravo 212, Centro de Cerralvo, 65900 Cerralvo, N.L., Mexico",
+      26.0862451,
+      -99.6143299
+   ],
+   [
+      "Melchor Ocampo, Centro de Hualahuises, 67890 Hualahuises, N.L., Mexico",
+      24.8845243,
+      -99.6692816
+   ],
+   [
+      "Calle Gral. Carlos Salazar Pte. 409, Centro, 64000 Monterrey, N.L., Mexico",
+      25.6827033,
+      -100.3167018
+   ],
+   [
+      "Ignacio Zaragoza, Martin de León, 67850 Galeana, N.L., Mexico",
+      24.8184131,
+      -100.0794178
+   ],
+   [
+      "Zapopan, Monterrey, N.L., Mexico",
+      25.687869,
+      -100.3485334
+   ],
+   [
+      "Matamoros, 67850 Galeana, N.L., Mexico",
+      24.8203898,
+      -100.0685806
+   ],
+   [
+      "Pino Suarez & Calle Mariano Matamoros, Centro, 64000 Monterrey, N.L., Mexico",
+      25.6705791,
+      -100.319995
+   ],
+   [
+      "Ciprés 680, Provileon, 67755 Linares, N.L., Mexico",
+      24.8609622,
+      -99.5525239
+   ],
+   [
+      "Frontera 25, Cuauhtemoc, 70660 Salina Cruz, Oax., Mexico",
+      16.1795108,
+      -95.1992663
+   ],
+   [
+      "Joaquín Amaro, Ixtepec, Oax., Mexico",
+      16.5437999,
+      -95.0842725
+   ],
+   [
+      "Rosendo Díaz, Juchitán de Zaragoza, Oax., Mexico",
+      16.441891,
+      -95.0099579
+   ],
+   [
+      "Guadalupe Victoria & Av. Hombres Ilustres Pte., Centro, 70150 Unión Hidalgo, Oax., Mexico",
+      16.4760849,
+      -94.8297137
+   ],
+   [
+      "Av. Oaxaca, Santiago Laollaga, Oax., Mexico",
+      16.5833165,
+      -95.2064365
+   ],
+   [
+      "Matamoros, 2da Secc, 70117 El Espinal, Oax., Mexico",
+      16.4830109,
+      -95.038527
+   ],
+   [
+      "Carretera Transístmica, Tehuantepec, Oax., Mexico",
+      16.3150635,
+      -95.2375013
+   ],
+   [
+      "16 de Septiembre, Justo Sierra, 70300 Matías Romero Avendaño, Oax., Mexico",
+      16.8697923,
+      -95.0441526
+   ],
+   [
+      "San Pedro Tapanatepec, Oaxaca, Mexico",
+      16.3693859,
+      -94.1944784
+   ],
+   [
+      "Constitución 36, Centro, 70175 San Francisco Ixhuatán, Oax., Mexico",
+      16.3529037,
+      -94.4839633
+   ],
+   [
+      "Matias Romero Avendano, Oaxaca, Mexico",
+      16.8681196,
+      -95.0442567
+   ],
+   [
+      "Mérida 105, El Castillo, 68340 San Juan Bautista Tuxtepec, Oax., Mexico",
+      18.0804261,
+      -96.1454018
+   ],
+   [
+      "Acatlan de Perez Figueroa, Oaxaca, Oax., Mexico",
+      18.5373399,
+      -96.6045464
+   ],
+   [
+      "Aguascalientes, Loma Bonita, Oax., Mexico",
+      18.104302,
+      -95.8787452
+   ],
+   [
+      "Miguel Hidalgo, San Lucas Ojitlan, San Lucas Ojitlán, Oax., Mexico",
+      18.0571079,
+      -96.3909188
+   ],
+   [
+      "Calle Ocho 256, Centro, Oax., Mexico",
+      18.240524,
+      -96.404035
+   ],
+   [
+      "San Juan Bautista Valle Nacional, Oaxaca, Mexico",
+      17.7732868,
+      -96.3079874
+   ],
+   [
+      "María Lombardo de Caso, Oax., Mexico",
+      17.4483024,
+      -95.4306899
+   ],
+   [
+      "San Felipe Usila, Oaxaca, Mexico",
+      17.8896907,
+      -96.5223449
+   ],
+   [
+      "Violeta 19, Jardines del Sur, 69007 Huajuapan de León, Oax., Mexico",
+      17.8020681,
+      -97.7803349
+   ],
+   [
+      "Jdn. Hidalgo 5, Chalcatongo de Hidalgo, Oax., Mexico",
+      17.0327683,
+      -97.5711373
+   ],
+   [
+      "Calle Av Gral Lázaro Cárdenas 505, Col del Maestro, Santiago Juxtlahuaca, Oax., Mexico",
+      17.3380217,
+      -98.0110843
+   ],
+   [
+      "Calle Valerio Trujano, Silacayoápam, Oax., Mexico",
+      17.5010646,
+      -98.1386563
+   ],
+   [
+      "Av. 16 de Septiembre 51, Villa de Tamazulápam del Progreso, Oax., Mexico",
+      17.6657326,
+      -97.5744211
+   ],
+   [
+      "Pinotepa Nacional - Putla 15, Lindavista, 71007 Putla Villa de Guerrero, Oax., Mexico",
+      17.0210747,
+      -97.9226581
+   ],
+   [
+      "Calle Guerrero 9, 4TA., Santo Domingo Zanatepec, Oax., Mexico",
+      16.4804446,
+      -94.3584012
+   ],
+   [
+      "Quinta Nte., Puerto Escondido, Oax., Mexico",
+      15.8666769,
+      -97.0703692
+   ],
+   [
+      "San Pedro Pochutla, Oaxaca, Mexico",
+      15.7489259,
+      -96.4672856
+   ],
+   [
+      "Centro, Río Grande O Piedra Parada, Oax., Mexico",
+      16.0117454,
+      -97.4375534
+   ],
+   [
+      "Villa de Tututepec de Melchor Ocampo, Oaxaca, Mexico",
+      16.131181,
+      -97.6087108
+   ],
+   [
+      "SECTOR J, Guelaguetza 510, J, 70988 Crucecita, Oax., Mexico",
+      15.7705619,
+      -96.1325165
+   ],
+   [
+      "Blvd. Eduardo Vasconcelos 615, Barrio de Jalatlaco, 68080 Oaxaca de Juárez, Oax., Mexico",
+      17.0657054,
+      -96.714575
+   ],
+   [
+      "Pueblos Mixes, San Pedro y San Pablo Ayutla, Oax., Mexico",
+      17.0278964,
+      -96.076979
+   ],
+   [
+      "Calle Zaragoza, San Juan Bautista Cuicatlán, Oax., Mexico",
+      17.805735,
+      -96.9587818
+   ],
+   [
+      "Faustino Méndez López, Guelatao de Juárez, Oax., Mexico",
+      17.3170713,
+      -96.4943821
+   ],
+   [
+      "Alfonso Caso 8, Huautla de Jimenez, 68500 Huautla de Jiménez, Oax., Mexico",
+      18.1331773,
+      -96.8456819
+   ],
+   [
+      "Mariano Escobedo 34, Centro, 70805 Miahuatlán de Porfirio Díaz, Oax., Mexico",
+      16.3299356,
+      -96.5944749
+   ],
+   [
+      "Calle Benito Juárez 124, Centro, 71510 Ocotlán de Morelos, Oax., Mexico",
+      16.7886692,
+      -96.6762794
+   ],
+   [
+      "Carretera Oaxaca- Puerto Escondido s/n, Francisco y Madero, Barrio de Jesús, 71270 San Pablo Huixtepec, Oax., Mexico",
+      16.8314486,
+      -96.7884883
+   ],
+   [
+      "Francisco F. Trujillo 5, San Isidro, 68540 Teotitlán de Flores Magón, Oax., Mexico",
+      18.1291105,
+      -97.0679312
+   ],
+   [
+      "Galeana 2, Centro A, 68213 San Francisco Telixtlahuaca, Oax., Mexico",
+      17.2955179,
+      -96.9034956
+   ],
+   [
+      "Calle Comonfort 7, Tercera Secc, 70400 Tlacolula de Matamoros, Oax., Mexico",
+      16.9556476,
+      -96.4736703
+   ],
+   [
+      "Alfonso López Arenas 8, La Peña, 69600 Asunción Nochixtlán, Oax., Mexico",
+      17.4537591,
+      -97.2230318
+   ],
+   [
+      "Pinotepa Nacional, Oaxaca, Mexico",
+      16.3411824,
+      -98.053687
+   ],
+   [
+      "Carretera, A Yucudaa Km. 55, San Diego, 69800 Tlaxiaco, Oax., Mexico",
+      17.2806834,
+      -97.6703541
+   ],
+   [
+      "Carr. Internacional, Acatlán de Osorio, Pue., Mexico",
+      18.2019147,
+      -98.0484549
+   ],
+   [
+      "Francisco Villa 11, Lomas de Axocopan, Atlixco, Pue., Mexico",
+      18.9150699,
+      -98.4802364
+   ],
+   [
+      "José Lima 48, Centro, 74583 Atencingo, Pue., Mexico",
+      18.5101373,
+      -98.6083326
+   ],
+   [
+      "Reforma, Chiautla de Tapia, Tecomazuchil, Chiautla de Tapia, Pue., Mexico",
+      18.3009096,
+      -98.6048565
+   ],
+   [
+      "Miguel Hidalgo, 74470 Izúcar de Matamoros, Pue., Mexico",
+      18.5902813,
+      -98.4716691
+   ],
+   [
+      "Avenida Tecnologico No 80, 5 de Octubre, 73173 Huauchinango, Pue., Mexico",
+      20.16193,
+      -98.0422321
+   ],
+   [
+      "Zaragoza, Centro, Pahuatlán, Pue., Mexico",
+      20.2758923,
+      -98.1505197
+   ],
+   [
+      "Zaragoza 290, Mi Ranchito, Col Lomas de Ocotzotal, 73080 Xicotepec de Juárez, Pue., Mexico",
+      20.2606592,
+      -97.9631302
+   ],
+   [
+      "Chignahuapan - Zacatlán 5, Centro, 73300 Chignahuapan, Pue., Mexico",
+      19.8446221,
+      -98.0298806
+   ],
+   [
+      "16 de Septiembre 6314_5, Bugambilias, Puebla, Pue., Mexico",
+      19.0077016,
+      -98.2189421
+   ],
+   [
+      "Calle Melchor Ocampo 4, Centro, 73310 Zacatlán, Pue., Mexico",
+      19.9339699,
+      -97.9617651
+   ],
+   [
+      "B. Juárez, Centro, 73040 Venustiano Carranza, Pue., Mexico",
+      20.5059035,
+      -97.6678593
+   ],
+   [
+      "Hda. Calcahualco 3412, Jardines de Tehuacan, 75769 Tehuacán, Pue., Mexico",
+      18.4586381,
+      -97.4146803
+   ],
+   [
+      "De La Explosión, Barrio de Jesús Maria, 75520 Cd Serdán, Pue., Mexico",
+      18.9853168,
+      -97.4465665
+   ],
+   [
+      "Esperanza, Puebla, Mexico",
+      18.8579982,
+      -97.3735416
+   ],
+   [
+      "Carretera Federal Tehuacán - Teotitlán Km 42, Donato Bravo Izquierdo, 75980 Coxcatlán, Pue., Mexico",
+      18.2680049,
+      -97.1569735
+   ],
+   [
+      "Calle 5 Pte. 38, San José, 75040 Guadalupe Victoria, Pue., Mexico",
+      19.2894649,
+      -97.3453587
+   ],
+   [
+      "Calle Cofre de Perote, San Martín Texmelucan de Labastida, Pue., Mexico",
+      19.2864978,
+      -98.4474687
+   ],
+   [
+      "Carlos B. Zetina 815, Primero, Primer Barrio, 74160 Huejotzingo, Pue., Mexico",
+      19.1526107,
+      -98.4070966
+   ],
+   [
+      "3ER. Callejón L. Méndez 103, San Pedro Xoloco, 73870 Teziutlán, Pue., Mexico",
+      19.8057856,
+      -97.3561015
+   ],
+   [
+      "Calz. Ignacio Zaragoza 365, Puebla, Venustiano Carranza, Ciudad de México, CDMX, Mexico",
+      19.4117216,
+      -99.0813921
+   ],
+   [
+      "Av. 5 de Mayo 42, Centro, Hueytamalco, Pue., Mexico",
+      19.9409145,
+      -97.2892146
+   ],
+   [
+      "Tlatlauquitepec, Puebla, Mexico",
+      19.8463549,
+      -97.4971981
+   ],
+   [
+      "Zacapoaxtla, Puebla, Mexico",
+      19.8735055,
+      -97.5887976
+   ],
+   [
+      "Calle 16 Nte., 73700 Zaragoza, Pue., Mexico",
+      19.7771175,
+      -97.5506293
+   ],
+   [
+      "5 de Mayo 340, Zapotitlán de Méndez Centro, Zapotitlán de Méndez, Pue., Mexico",
+      20.0025629,
+      -97.715843
+   ],
+   [
+      "Camino de Los Alamos o, Calle 27 Nte., Zona Sin Asignación de Nombre de Col 1, Sta María la Rivera, Puebla, Pue., Mexico",
+      19.0769424,
+      -98.2011027
+   ],
+   [
+      "Calle 2 Nte. 15, Centro, 75000 Cd de Rafael Lara Grajales, Pue., Mexico",
+      19.2292053,
+      -97.8025239
+   ],
+   [
+      "408, Nicolas Bravo 7, Guadalupe Hidalgo 2da Secc, Guadalupe Hidalgo, Puebla, Pue., Mexico",
+      18.9740366,
+      -98.2361791
+   ],
+   [
+      "Calle 2 Nte. & Calle 6 Ote, Tres de Mayo, San Juan Ixcaquixtla, Pue., Mexico",
+      18.4640587,
+      -97.8291643
+   ],
+   [
+      "Calle 9 Sur & Av. 11 Pte., San Antonio, 75486 Tecamachalco, Pue., Mexico",
+      18.8817543,
+      -97.7350436
+   ],
+   [
+      "Calle 8 Pte. 113, El Calvario, 75200 Tepeaca, Pue., Mexico",
+      18.9719551,
+      -97.9037929
+   ],
+   [
+      "Calle 2 Pte. 312, San Antonio, 75150 Acatzingo de Hidalgo, Pue., Mexico",
+      18.98216,
+      -97.7880796
+   ],
+   [
+      "Tecnológico 1208, San Cristobal Tepontla, 72765 Cholula, Pue., Mexico",
+      19.0673426,
+      -98.3186687
+   ],
+   [
+      "Retorno Esgrima, Puebla, Pue., Mexico",
+      19.0522795,
+      -98.1638771
+   ],
+   [
+      "Calle Venus & Calle Lago Huron, Fovissste San Roque, Puebla, Pue., Mexico",
+      19.0077696,
+      -98.2394232
+   ],
+   [
+      "Naranjo 38, Rancho Colorado, 72040 Puebla, Pue., Mexico",
+      19.0803413,
+      -98.2144605
+   ],
+   [
+      "C. 4 Sur 311, Centro, 72000 Puebla, Pue., Mexico",
+      19.0413351,
+      -98.1965659
+   ],
+   [
+      "Prol. de la 19 Sur, Puebla, Pue., Mexico",
+      18.9973753,
+      -98.2512499
+   ],
+   [
+      "Recta a Cholula 103, Cholula, Pue., Mexico",
+      19.0596345,
+      -98.2735491
+   ],
+   [
+      "Jesús Reyes Heroles, Puebla, Pue., Mexico",
+      19.0741595,
+      -98.2110871
+   ],
+   [
+      "Av Tecnológico 101, Centro, 76000 Santiago de Querétaro, Qro., Mexico",
+      20.5826943,
+      -100.4004888
+   ],
+   [
+      "Justo Sierra, Centro Universitario, 76010 Santiago de Querétaro, Qro., Mexico",
+      20.5936155,
+      -100.4072078
+   ],
+   [
+      "Ajuchitlán, Qro., Mexico",
+      20.7047067,
+      -100.0220614
+   ],
+   [
+      "Madroño 47, Los Miradores, 76850 Amealco de Bonfil, Qro., Mexico",
+      20.1848423,
+      -100.1466359
+   ],
+   [
+      "Federal Núm. 120 San Juan del Rio-Xilitla 28, Centro, Zona Centro, 76500 Cadereyta de Montes, Qro., Mexico",
+      20.7004329,
+      -99.8131249
+   ],
+   [
+      "Ezequiel Montes, Qro., Mexico",
+      20.654296,
+      -99.906265
+   ],
+   [
+      "Nicolás Bravo s/n, Alcantarilla, 76340 Jalpan de Serra, Qro., Mexico",
+      21.2184966,
+      -99.4772085
+   ],
+   [
+      "Calle Emiliano Zapata 68, Adolfo López Mateos, 76750 Tequisquiapan, Qro., Mexico",
+      20.5245235,
+      -99.9058796
+   ],
+   [
+      "San Pedro de los Eucaliptos, Tolimán, Qro., Mexico",
+      20.9146485,
+      -99.9318397
+   ],
+   [
+      "5 de Mayo 40, Centro, 76800 San Juan del Río, Qro., Mexico",
+      20.3932065,
+      -99.9942604
+   ],
+   [
+      "Vicente Guerrero, Centro, 76700 Pedro Escobedo, Qro., Mexico",
+      20.5003912,
+      -100.1421759
+   ],
+   [
+      "Acceso No. 6 13, Benito Juárez, 76089 Santiago de Querétaro, Qro., Mexico",
+      20.6429324,
+      -100.4331409
+   ],
+   [
+      "Tenoch 121, zona dos extendida, Azteca, 76085 Santiago de Querétaro, Qro., Mexico",
+      20.5577368,
+      -100.3850625
+   ],
+   [
+      "Av Insurgentes, Chetumal, Q.R., Mexico",
+      18.519285,
+      -88.3084623
+   ],
+   [
+      "Parque Principal Felipe Carrillo Puerto, 77200 r, Calle 66 752, Centro, 77200 Felipe Carrillo Puerto, Quintana Roo, Mexico",
+      19.5781761,
+      -88.0460312
+   ],
+   [
+      "Calle Miguel Hidalgo S/N, Centro, 77890 José María Morelos, Q.R., Mexico",
+      19.7474436,
+      -88.7105857
+   ],
+   [
+      "Av 3, 77930 Bacalar, Q.R., Mexico",
+      18.6786253,
+      -88.3883553
+   ],
+   [
+      "Av. Kabah, 93, Cancún, Q.R., Mexico",
+      21.1655198,
+      -86.8551963
+   ],
+   [
+      "José María Morelos 89, Centro, 60950 Lázaro Cárdenas, Mich., Mexico",
+      17.9618795,
+      -102.1937822
+   ],
+   [
+      "Carlos Lazo 11, Centro, 77400 Isla Mujeres, Q.R., Mexico",
+      21.260169,
+      -86.7494242
+   ],
+   [
+      "Solidaridad, Quintana Roo, Mexico",
+      20.6351101,
+      -87.0779614
+   ],
+   [
+      "Calle 1ra Sur No 101 entre 50 y, 50 Avenida Sur Bis, Adolfo López Mateos, 77600 San Miguel de Cozumel, Q.R., Mexico",
+      20.4983079,
+      -86.946753
+   ],
+   [
+      "Carlos Diez Gutiérrez 915, San Juan de Guadalupe, Barrio de San Sebastian, 78349 San Luis, S.L.P., Mexico",
+      22.1405974,
+      -100.9702186
+   ],
+   [
+      "Frontera 1509, Altavista, 79050 Cd Valles, S.L.P., Mexico",
+      21.9937885,
+      -99.0040892
+   ],
+   [
+      "Jalisco, Ebano, S.L.P., Mexico",
+      22.2118814,
+      -98.3924631
+   ],
+   [
+      "Independencia 1, Centro, 79840 Tanquián de Escobedo, S.L.P., Mexico",
+      21.5981008,
+      -98.6618265
+   ],
+   [
+      "Amado Nervo, Jardin, 79900 Xilitla, S.L.P., Mexico",
+      21.3887893,
+      -98.9857926
+   ],
+   [
+      "Venustiano Carranza, 79930 Axtla de Terrazas, S.L.P., Mexico",
+      21.4393367,
+      -98.8772366
+   ],
+   [
+      "Av. Juárez 77, Zona Centro, 79380 Cárdenas, S.L.P., Mexico",
+      21.9968017,
+      -99.6394645
+   ],
+   [
+      "Tancanhuitz de Santos, San Luis Potosi, Mexico",
+      21.5927572,
+      -98.9647744
+   ],
+   [
+      "Av. Salvador Nava, San Luis, S.L.P., Mexico",
+      22.134605,
+      -100.9905095
+   ],
+   [
+      "Av Scop 1120, Burocrata, 78213 San Luis, S.L.P., Mexico",
+      22.1444022,
+      -101.0003873
+   ],
+   [
+      "Gral. Anaya 2, El Callejon, 79300 Cd del Maíz, S.L.P., Mexico",
+      22.4054651,
+      -99.5995805
+   ],
+   [
+      "Independencia 1, Guadalupe, 79445 Cerritos, S.L.P., Mexico",
+      22.4245213,
+      -100.2876404
+   ],
+   [
+      "Independencia 105, Clavellina, 78597 Charcas, S.L.P., Mexico",
+      23.1335719,
+      -101.1084349
+   ],
+   [
+      "Salinas de Hidalgo, San Luis Potosi, Mexico",
+      22.6276104,
+      -101.7164979
+   ],
+   [
+      "Av. Miguel Hidalgo 32, Villa Hidalgo, S.L.P., Mexico",
+      22.4431651,
+      -100.6839903
+   ],
+   [
+      "Valle de Bellavista 130, Valle de Bellavista, 78433 Soledad de Graciano Sánchez, S.L.P., Mexico",
+      22.1743507,
+      -100.9671456
+   ],
+   [
+      "Soledad de Graciano Sánchez, San Luis Potosi, Mexico",
+      22.1807042,
+      -100.9417767
+   ],
+   [
+      "Santa Maria del Rio, San Luis Potosi, Mexico",
+      21.8031036,
+      -100.7336555
+   ],
+   [
+      "Mariano Matamoros 48, El Fraile, 78760 Matehuala, S.L.P., Mexico",
+      23.6516465,
+      -100.6370332
+   ],
+   [
+      "Km. 5 Carretera Tamazunchale-San Martin, 79960 San Luis Potosí, Mexico",
+      21.2606392,
+      -98.7444545
+   ],
+   [
+      "Ejército Nacional 100, Villas Alejandra, 79610 Rioverde, S.L.P., Mexico",
+      21.9240363,
+      -99.9819873
+   ],
+   [
+      "México 15 & Lib. de Mazatlán, Melina, 82190 Mazatlán, Sin., Mexico",
+      23.2419854,
+      -106.3906262
+   ],
+   [
+      "Cuauhtémoc, 82600 Concordia, Sin., Mexico",
+      23.2880163,
+      -106.0713602
+   ],
+   [
+      "Av. De Los Deporte, El Rosario, Sin., Mexico",
+      22.9972141,
+      -105.8670467
+   ],
+   [
+      "Culiacán, Sinaloa, Mexico",
+      24.8090649,
+      -107.3940117
+   ],
+   [
+      "San Ignacio, Sinaloa, Mexico",
+      23.9420684,
+      -106.4280389
+   ],
+   [
+      "Isla de Pájaros, Esperanza, 82190 Mazatlán, Sin., Mexico",
+      23.2449093,
+      -106.3925667
+   ],
+   [
+      "Blvd. Antonio Rosales & Blvd. 10 de Mayo, Jiquilpan, 81227 Los Mochis, Sin., Mexico",
+      25.8085588,
+      -108.9874507
+   ],
+   [
+      "Morelos, Ahome Independencia, 81310 Ahome, Sin., Mexico",
+      25.9166283,
+      -109.1690518
+   ],
+   [
+      "Av. Benigno Valenzuela 154, Centro, 81000 Guasave, Sin., Mexico",
+      25.5673442,
+      -108.4599137
+   ],
+   [
+      "Ignacio Zaragoza 17, Centro, 81000 Guasave, Sin., Mexico",
+      25.5639706,
+      -108.4619754
+   ],
+   [
+      "Centro, 81700 Choix, Sin., Mexico",
+      26.7067977,
+      -108.3229114
+   ],
+   [
+      "Fuerte River, Sinaloa, Mexico",
+      26.2712069,
+      -108.7933265
+   ],
+   [
+      "El Fuerte, Sinaloa, Mexico",
+      26.417632,
+      -108.6145938
+   ],
+   [
+      "Gral Gabriel Leyva Solano, Centro, Guasave, Sin., Mexico",
+      25.5655118,
+      -108.4626479
+   ],
+   [
+      "Calle Jacarandas s/n, Col del Bosque, 81040 Guasave, Sin., Mexico",
+      25.5711609,
+      -108.4733059
+   ],
+   [
+      "Av Ignacio Zaragoza, Los Mochis, Sin., Mexico",
+      25.7962767,
+      -108.9887326
+   ],
+   [
+      "Los Mochis, Sinaloa, Mexico",
+      25.7904657,
+      -108.985882
+   ],
+   [
+      "Diego Martínez, Adolfo Ruiz Cortinez, 81000 Adolfo Ruiz Cortines, Sin., Mexico",
+      25.703548,
+      -108.720252
+   ],
+   [
+      "Montés Claros 37, Centro Histórico, 81820 El Fuerte, Sin., Mexico",
+      26.4219949,
+      -108.6211809
+   ],
+   [
+      "Teresa Villegas 1481, Gabriel Leyva, 80030 Culiacán Rosales, Sin., Mexico",
+      24.8177219,
+      -107.3977049
+   ],
+   [
+      "San Pedro, Domicilio Conocido, Guasave, Sinaloa, Mexico",
+      25.5371486,
+      -108.4552387
+   ],
+   [
+      "Alianza 875, 5 de Mayo, 80230 Culiacán Rosales, Sin., Mexico",
+      24.7949464,
+      -107.378575
+   ],
+   [
+      "5 de Mayo, Angostura, Sin., Mexico",
+      25.3641514,
+      -108.1603745
+   ],
+   [
+      "Antonio Rosales, Badiraguato, Sin., Mexico",
+      25.3587829,
+      -107.5506157
+   ],
+   [
+      "Miguel Hidalgo y Costilla 92, Cosalá, 80700 Cosalá, Sin., Mexico",
+      24.416065,
+      -106.6902696
+   ],
+   [
+      "Desiderio Ochoa & Mariano Escobedo, Centro, 80450 Eldorado, Sin., Mexico",
+      24.3233056,
+      -107.3640187
+   ],
+   [
+      "Gabriela Mistral 1126, Magisterio, 81470 Guamúchil, Sin., Mexico",
+      25.452994,
+      -108.0713648
+   ],
+   [
+      "La Cruz, Sinaloa, Mexico",
+      23.9211737,
+      -106.8915948
+   ],
+   [
+      "Mocorito, Sinaloa, Mexico",
+      25.481348,
+      -107.9205937
+   ],
+   [
+      "Júpiter, Istesssin Esperanza, 80327 Navolato, Sin., Mexico",
+      24.7657967,
+      -107.7093901
+   ],
+   [
+      "Mocorito, Sinaloa, Mexico",
+      25.481348,
+      -107.9205937
+   ],
+   [
+      "5 de Mayo, 80230 Culiacán Rosales, Sin., Mexico",
+      24.7938326,
+      -107.3781069
+   ],
+   [
+      "Av. José María Morelos, La Cruz, Sin., Mexico",
+      23.9169715,
+      -106.8876739
+   ],
+   [
+      "Art. 123, Fovissste, Chapultepec, 80040 Culiacán Rosales, Sin., Mexico",
+      24.8209191,
+      -107.3854927
+   ],
+   [
+      "Angostura, Sinaloa, Mexico",
+      25.3679709,
+      -108.1591316
+   ],
+   [
+      "Costa Rica, Sinaloa, Mexico",
+      24.085556,
+      -107.052222
+   ],
+   [
+      "Blvd. Diamante, Tres Ríos, 80027 Culiacán Rosales, Sin., Mexico",
+      24.8344349,
+      -107.4282921
+   ],
+   [
+      "Av. Jesús Siqueiros & Bulevar José María Morelos, Loma Linda, 83150 Hermosillo, Son., Mexico",
+      29.1107942,
+      -110.9509826
+   ],
+   [
+      "Cajeme, Sonora, Mexico",
+      27.4934041,
+      -109.940064
+   ],
+   [
+      "Av. Guillermo Chávez, Hidalgo, Navojoa, 85840 Navojoa, Son., Mexico",
+      27.088244,
+      -109.436648
+   ],
+   [
+      "Blvd. del Ensueño, Sonora, Mexico",
+      31.3222524,
+      -110.9576829
+   ],
+   [
+      "Bizani 137, Centro, 83660 Caborca, Son., Mexico",
+      30.706185,
+      -112.1585537
+   ],
+   [
+      "Cananea 211, Fatima, Magdalena de Kino, Son., Mexico",
+      30.631128,
+      -110.9585778
+   ],
+   [
+      "Colegio Militar 501, Santa Rita, Santa Ana, Son., Mexico",
+      30.5357297,
+      -111.1181504
+   ],
+   [
+      "Luis Proto 52, Ímuris Centro, 84120 Imuris, Son., Mexico",
+      30.78032,
+      -110.8570848
+   ],
+   [
+      "Calle 14 1305, Luis Donaldo Colosio, 83268 Agua Prieta, Son., Mexico",
+      31.3214092,
+      -109.5177299
+   ],
+   [
+      "Cananea, Sonora, Mexico",
+      30.9897648,
+      -110.289179
+   ],
+   [
+      "Ensenada Grande S/N, Fovissste, 85140 Heroica Guaymas, Son., Mexico",
+      27.9241219,
+      -110.9210305
+   ],
+   [
+      "Calle 3ra entre Constitución y Av. 1 de, Av. Primero de Mayo, Ortíz Rubio, 85360 Empalme, Son., Mexico",
+      27.962912,
+      -110.808293
+   ],
+   [
+      "San Luis Río Colorado, Sonora, Mexico",
+      32.4518877,
+      -114.771711
+   ],
+   [
+      "18 de Septiembre 48, El Puerto, 83554 Puerto Peñasco, Son., Mexico",
+      31.3017446,
+      -113.5490135
+   ],
+   [
+      "Centro, 83570 Sonoyta, Son., Mexico",
+      31.8598766,
+      -112.851056
+   ],
+   [
+      "Bulevar José María Morelos & Alfredo Eguiarte, Sacramento, 83144 Hermosillo, Son., Mexico",
+      29.1146455,
+      -110.9512542
+   ],
+   [
+      "Mariano Matamoros, Huépac, Son., Mexico",
+      29.9161992,
+      -110.2123014
+   ],
+   [
+      "Calle Oaxaca, Carbó, Son., Mexico",
+      29.6807121,
+      -110.9539411
+   ],
+   [
+      "Moctezuma, Sonora, Mexico",
+      29.8034924,
+      -109.6803106
+   ],
+   [
+      "Callejón Sin Número, Centro, Ures, Son., Mexico",
+      29.427561,
+      -110.391973
+   ],
+   [
+      "De la Pitahaya, Sahuaripa, Son., Mexico",
+      29.0606042,
+      -109.2362843
+   ],
+   [
+      "1o. de Junio, Insurgentes, 83106 Miguel Alemán, Son., Mexico",
+      28.8477195,
+      -111.482389
+   ],
+   [
+      "Av. Tecnológico y, Periférico Poniente S/N, Sahuaro, 83170 Hermosillo, Son., Mexico",
+      29.0982743,
+      -110.996595
+   ],
+   [
+      "Mazatán, Sonora, Mexico",
+      29.0055567,
+      -110.1371821
+   ],
+   [
+      "Av. 27 de Febrero 1803, Atasta de Serra, 86100 Villahermosa, Tab., Mexico",
+      17.9834659,
+      -92.9442441
+   ],
+   [
+      "Av Las Palmas, Los Reyes Loma Alta, 86570 Heroica Cárdenas, Tab., Mexico",
+      17.9884817,
+      -93.392004
+   ],
+   [
+      "Villahermosa, Tabasco, Mexico",
+      17.989456,
+      -92.9475061
+   ],
+   [
+      "Venustiano Carranza, Balancán, Tab., Mexico",
+      17.8083649,
+      -91.5350769
+   ],
+   [
+      "Comalcalco, Tabasco, Mexico",
+      18.261156,
+      -93.2216864
+   ],
+   [
+      "Calle Huimanguillo & Av Nacajuca, Cunduacan 2000, 86690 Cunduacán, Tab., Mexico",
+      18.0659147,
+      -93.1653781
+   ],
+   [
+      "Francisco J. Mujica, Tierra y Libertad, 86992 Emiliano Zapata, Tab., Mexico",
+      17.7399456,
+      -91.7787023
+   ],
+   [
+      "Ejido S/N, Jacobo Nazar, 86750 Frontera, Tab., Mexico",
+      18.5364172,
+      -92.6387447
+   ],
+   [
+      "Calle La Juventud, Huimanguillo, Tab., Mexico",
+      17.8176357,
+      -93.3979697
+   ],
+   [
+      "Calle Francisco Indalecio Madero 103, La Guadalupe, 86200 Jalpa de Méndez, Tab., Mexico",
+      18.1727252,
+      -93.0589161
+   ],
+   [
+      "Macuspana, Tabasco, Mexico",
+      17.7607017,
+      -92.5936096
+   ],
+   [
+      "Miguel Lerdo de Tejada, Paraíso, Tab., Mexico",
+      18.3982813,
+      -93.211207
+   ],
+   [
+      "Río Teapa 209, La Sierra Secc Arroyo, 86800 Teapa, Tab., Mexico",
+      17.5580878,
+      -92.9460582
+   ],
+   [
+      "Calle 50, Tenosique de Pino Suárez, Tab., Mexico",
+      17.4735809,
+      -91.4197718
+   ],
+   [
+      "Cárdenas, Tabasco, Mexico",
+      18.0012067,
+      -93.3732339
+   ],
+   [
+      "Calle Melchor Ocampo 17, 17 de Julio, 86220 Nacajuca, Tab., Mexico",
+      18.1704822,
+      -93.022407
+   ],
+   [
+      "Calle Sebastian Lerdo de Tejada, Centro, 86870 Tacotalpa, Tab., Mexico",
+      17.5920151,
+      -92.8268331
+   ],
+   [
+      "Francisco J. Santa María 237, Centro, 86530 Heroica Cárdenas, Tab., Mexico",
+      17.9857675,
+      -93.3722562
+   ],
+   [
+      "Blvd. Emilio Portes Gil 1301, Sin Nombre de Col 7, 87010 Cd Victoria, Tamps., Mexico",
+      23.753497,
+      -99.166728
+   ],
+   [
+      "Abasolo, Tamaulipas, Mexico",
+      24.0593289,
+      -98.3771633
+   ],
+   [
+      "Barretal, Tamps., Mexico",
+      24.08372,
+      -99.128024
+   ],
+   [
+      "Jaumave, Tamaulipas, Mexico",
+      23.4114324,
+      -99.3793581
+   ],
+   [
+      "Miguel Hidalgo y Costilla, Santander Jiménez, Tamps., Mexico",
+      24.2166964,
+      -98.4888778
+   ],
+   [
+      "Julián Cerda, Hidalgo, Tamps., Mexico",
+      24.2484639,
+      -99.4422843
+   ],
+   [
+      "josé María Morelos 17, Llera de Canales, Tamps., Mexico",
+      23.3193795,
+      -99.0248552
+   ],
+   [
+      "Transpais Terminal Padilla, Aquiles Serdán, Zona Centro, 87780 Nueva Villa de Padilla, Tamps., Mexico",
+      24.047405,
+      -98.898764
+   ],
+   [
+      "Cd Victoria - Tula, Cd Tula, Tamps., Mexico",
+      22.996887,
+      -99.7295943
+   ],
+   [
+      "Calle A.Obregon, Zona Centro, Villagrán, Tamps., Mexico",
+      24.4730255,
+      -99.4882811
+   ],
+   [
+      "Francisco Javier Mina, Soto la Marina, Tamps., Mexico",
+      23.7653861,
+      -98.2057208
+   ],
+   [
+      "Av. Ejército Mexicano 1401, Los Pinos, 89137 Tampico, Tamps., Mexico",
+      22.2521947,
+      -97.8597464
+   ],
+   [
+      "Blvd. Miguel Hidalgo S/N, Adolfo López Mateos, 88654 Reynosa, Tamps., Mexico",
+      26.078653,
+      -98.3123377
+   ],
+   [
+      "Escandón, Cd Camargo, Tamps., Mexico",
+      26.322417,
+      -98.838752
+   ],
+   [
+      "Francisco I. Madero 200, Zona Centro, 88400 Cd Gustavo Díaz Ordaz, Tamps., Mexico",
+      26.2309078,
+      -98.5943078
+   ],
+   [
+      "Tampico, Tamaulipas, Mexico",
+      22.2331041,
+      -97.861099
+   ],
+   [
+      "Hidalgo & Gral. Trevino - Nueva Cdad. Mier, El Parian, 88390 Cd Mier, Tamps., Mexico",
+      26.430301,
+      -99.1486449
+   ],
+   [
+      "Av Canales & Calle José Arrese, Alianza, 87360 Heroica Matamoros, Tamps., Mexico",
+      25.8680967,
+      -97.4927606
+   ],
+   [
+      "Juárez, El Control, Tamps., Mexico",
+      25.9610309,
+      -97.8118718
+   ],
+   [
+      "Valle Hermoso, Tamaulipas, Mexico",
+      25.6683739,
+      -97.8159111
+   ],
+   [
+      "Centro, Ignacio Allende 306, Zona Centro, 87600 San Fernando, Tamps., Mexico",
+      24.8474996,
+      -98.1574752
+   ],
+   [
+      "Reynosa & Simon Bolívar, Ferrocarril, 88050 Nuevo Laredo, Tamps., Mexico",
+      27.4849252,
+      -99.5057256
+   ],
+   [
+      "Servando Canales, 87394 Heroica Matamoros, Tamps., Mexico",
+      25.7805025,
+      -97.520663
+   ],
+   [
+      "Matamoros - Cd Río Bravo, Cd Río Bravo, Tamps., Mexico",
+      25.9743084,
+      -98.0703101
+   ],
+   [
+      "Guillermo Prieto 701, Tamaulipas, 89858 Cd Mante, Tamps., Mexico",
+      22.7378863,
+      -98.9836733
+   ],
+   [
+      "Abasolo, Tamaulipas, Mexico",
+      24.0593289,
+      -98.3771633
+   ],
+   [
+      "Ocampo, Tamaulipas, Mexico",
+      22.8452259,
+      -99.3361544
+   ],
+   [
+      "Abasolo, Tamaulipas, Mexico",
+      24.0593289,
+      -98.3771633
+   ],
+   [
+      "Calle Morelos 15, Xicoténcatl Centro, 89755 Xicoténcatl, Tamps., Mexico",
+      22.9970327,
+      -98.9407254
+   ],
+   [
+      "Constitución 403, Zona Centro, 89670 Aldama, Tamps., Mexico",
+      22.921888,
+      -98.0751523
+   ],
+   [
+      "De Los Cedros 408, Arboledas, 89496 Cd Madero, Tamps., Mexico",
+      22.2416643,
+      -97.8373366
+   ],
+   [
+      "Melchor Ocampo 7, Zona Centro, 89600 Altamira, Tamps., Mexico",
+      22.3965472,
+      -97.9348127
+   ],
+   [
+      "Ocotlán - Santa Ana 24, Industrial, 90800 Chiautempan, Tlax., Mexico",
+      19.3195819,
+      -98.2096928
+   ],
+   [
+      "Camino a San Benito, Apizaco, Tlax., Mexico",
+      19.4089112,
+      -98.1549344
+   ],
+   [
+      "Camino Nacional 2, Francisco Sarabia, 90207 Calpulalpan, Tlax., Mexico",
+      19.5890683,
+      -98.5749685
+   ],
+   [
+      "Calle Juárez Sur 403, Centro, 90500 Huamantla, Tlax., Mexico",
+      19.3088594,
+      -97.9220077
+   ],
+   [
+      "Calle Salvador Díaz Mirón 35, Zona Universitaria, 91090 Xalapa-Enríquez, Ver., Mexico",
+      19.5180171,
+      -96.9172477
+   ],
+   [
+      "Salvador Diaz Miron, Sayula esquina, Salvador Díaz Mirón, 91918 Veracruz, Ver., Mexico",
+      19.1727599,
+      -96.1338613
+   ],
+   [
+      "Ignacio Ramírez 96, Zona Centro, 95270 Alvarado, Ver., Mexico",
+      18.7737415,
+      -95.764355
+   ],
+   [
+      "Centro, Cotaxtla, Ver., Mexico",
+      18.8347502,
+      -96.395327
+   ],
+   [
+      "3 de Diciembre, Piedras Negras, Ver., Mexico",
+      18.7698046,
+      -96.1688848
+   ],
+   [
+      "Aldama Oriente 502, Vista Alegre, 94242 Soledad de Doblado, Ver., Mexico",
+      19.0446795,
+      -96.4187001
+   ],
+   [
+      "Cosamaloapan, Ver., Mexico",
+      18.3663192,
+      -95.7958363
+   ],
+   [
+      "Carretera Federal tramo Tamarindo-Veracruz libre 140, Puente Nacional, 91658 Puente Nacional, Ver., Mexico",
+      19.3237417,
+      -96.4851155
+   ],
+   [
+      "Pedro Hernández Sur 5, Centro, 91669 Zempoala, Ver., Mexico",
+      19.4442098,
+      -96.4074999
+   ],
+   [
+      "Veracruz 546, Paso del Toro, Ver., Mexico",
+      19.0361706,
+      -96.1373402
+   ],
+   [
+      "NUMERO 1419, Fortín de las Flores - Córdoba 16, Centro, 94500 Córdoba, Ver., Mexico",
+      18.8916501,
+      -96.9389827
+   ],
+   [
+      "Calle Melchor Ocampo, Tierra Blanca, Ver., Mexico",
+      18.4507417,
+      -96.3574891
+   ],
+   [
+      "De las Gardenias, 94330 Orizaba, Ver., Mexico",
+      18.8680966,
+      -97.0969338
+   ],
+   [
+      "Calle 5 de Mayo 43, Zapote Gordo, 92860 Túxpam de Rodríguez Cano, Ver., Mexico",
+      20.9522515,
+      -97.4186807
+   ],
+   [
+      "Francisco Javier Clavijero, Tantoyuca, Ver., Mexico",
+      21.3546715,
+      -98.2202424
+   ],
+   [
+      "Heroes de Nacozari 3, Deportiva, 92514 Cerro Azul, Ver., Mexico",
+      21.1890337,
+      -97.7366588
+   ],
+   [
+      "Cervantes 118, Aviacion, 92390 Naranjos, Ver., Mexico",
+      21.343462,
+      -97.6979981
+   ],
+   [
+      "Díaz Mirón & 18 de Marzo, Rafael Hernandez Ochoa, 93995 Pánuco, Ver., Mexico",
+      22.0490205,
+      -98.1904614
+   ],
+   [
+      "El Vergel, 93399 Poza Rica de Hidalgo, Ver., Mexico",
+      20.5090892,
+      -97.4378052
+   ],
+   [
+      "Emiliano Zapata, 95390 Cosamaloapan, Ver., Mexico",
+      18.351763,
+      -95.808995
+   ],
+   [
+      "Nicolás Bravo 111, Centro, 95400 Cosamaloapan de Carpio, Ver., Mexico",
+      18.3749116,
+      -95.7928635
+   ],
+   [
+      "Náhuatl 20, Fovissste, 96537 Coatzacoalcos, Ver., Mexico",
+      18.1454847,
+      -94.4847393
+   ],
+   [
+      "Nayarit 120, México, 96980 Las Choapas, Ver., Mexico",
+      17.9208419,
+      -94.0944178
+   ],
+   [
+      "Catemaco, San Andres, 95730 San Andrés Tuxtla, Ver., Mexico",
+      18.4507591,
+      -95.220572
+   ],
+   [
+      "Vidal Díaz Muñoz 266, Benito Juárez, 95281 Lerdo de Tejada, Ver., Mexico",
+      18.6337168,
+      -95.516931
+   ],
+   [
+      "Av Justo Sierra 145, Nueva Mina, 96760 Minatitlán, Ver., Mexico",
+      17.9902274,
+      -94.5632379
+   ],
+   [
+      "Río Blanco, Lomas del Mirador, 93600 Martínez de la Torre, Ver., Mexico",
+      20.0604778,
+      -97.0636462
+   ],
+   [
+      "Juan de La Luz Enríquez, 96160 Oluta, Ver., Mexico",
+      17.9296372,
+      -94.8961186
+   ],
+   [
+      "J.B. Lobos, Coyol, 91779 Veracruz, Ver., Mexico",
+      19.1710711,
+      -96.1602334
+   ],
+   [
+      "C. 19B 372, San Francisco Chuburná, 97206 Mérida, Yuc., Mexico",
+      21.0130382,
+      -89.641456
+   ],
+   [
+      "Av. Cámara de Comercio, Mérida, Yuc., Mexico",
+      21.021097,
+      -89.6007303
+   ],
+   [
+      "Calle 72 167, Francisco I. Madero, 97320 Progreso, Yuc., Mexico",
+      21.2810242,
+      -89.6583488
+   ],
+   [
+      "97500 Dzidzantún, Yucatan, Mexico",
+      21.2482049,
+      -89.0421957
+   ],
+   [
+      "Izamal, Yucatan, Mexico",
+      20.9299997,
+      -89.0227126
+   ],
+   [
+      "Calle 20, 97800 Maxcanú, Yuc., Mexico",
+      20.5839449,
+      -90.000721
+   ],
+   [
+      "97430 Motul, Yucatan, Mexico",
+      21.098173,
+      -89.2799763
+   ],
+   [
+      "NUMERO 208 X, Ticul - Muna 25, Muna, 97840 Muna, Yuc., Mexico",
+      20.4819495,
+      -89.7031623
+   ],
+   [
+      "Calle 36, Oxkutzcab, Yuc., Mexico",
+      20.304383,
+      -89.4058016
+   ],
+   [
+      "45 NUMERO, Teya -Peto 28, Yucatán, Mexico",
+      20.8709373,
+      -89.4989191
+   ],
+   [
+      "Calle 48 204, Centro, 97970 Tekax, Yuc., Mexico",
+      20.2031722,
+      -89.2862102
+   ],
+   [
+      "Calle 31 353, 8 Calles, 97700 Tizimín, Yuc., Mexico",
+      21.1549962,
+      -88.1458196
+   ],
+   [
+      "17, Tixkokob - Izamal 26, Tixkokob, 97470 Tixkokob, Yuc., Mexico",
+      21.0014578,
+      -89.3853375
+   ],
+   [
+      "Valladolid, Yucatan, Mexico",
+      20.68964,
+      -88.2022488
+   ],
+   [
+      "Blvd. Adolfo López Mateos, Zacatecas, Zac., Mexico",
+      22.7686282,
+      -102.5723871
+   ],
+   [
+      "México 45, Víctor Rosales, Zac., Mexico",
+      22.9362372,
+      -102.6909832
+   ],
+   [
+      "Lerdo de Tejada, El Grasero, 98200 Concepción del Oro, Zac., Mexico",
+      24.6113598,
+      -101.4152129
+   ],
+   [
+      "Alameda, Villa González Ortega, Zac., Mexico",
+      22.5219042,
+      -101.9162654
+   ],
+   [
+      "Aréchiga 17, Zona Centro, 99600 Jalpa, Zac., Mexico",
+      21.6324951,
+      -102.9762112
+   ],
+   [
+      "De La Parroquia 24, Zona Centro, 99300 Jerez de García Salinas, Zac., Mexico",
+      22.6480554,
+      -102.9892998
+   ],
+   [
+      "Ruiseñor, Reyna Elena, 99960 Juchipila, Zac., Mexico",
+      21.4187918,
+      -103.1153367
+   ],
+   [
+      "Zacatecas Tierra Blanca - Loreto 402, Acevedo, 98832 Loreto, Zac., Mexico",
+      22.2758929,
+      -101.9870744
+   ],
+   [
+      "Nicolás Bravo, Luis Moya, Zac., Mexico",
+      22.4307223,
+      -102.252192
+   ],
+   [
+      "Martínez López 40, Monte Escobedo, Zac., Mexico",
+      22.3024393,
+      -103.5640156
+   ],
+   [
+      "Ojocaliente, Zacatecas, Mexico",
+      22.5706028,
+      -102.2546666
+   ],
+   [
+      "Tlaxcala 12, Pinos, Zac., Mexico",
+      22.2993544,
+      -101.5731564
+   ],
+   [
+      "Santos Degollado 2, Centro, 99670 Tabasco, Zac., Mexico",
+      21.8654482,
+      -102.9124952
+   ],
+   [
+      "Ignacio Zaragoza, Benito Juárez, Zac., Mexico",
+      23.8637159,
+      -103.3881744
+   ],
+   [
+      "Niños Heroes 8, Centro, 99700 Tlaltenango de Sánchez Román, Zac., Mexico",
+      21.7817571,
+      -103.3066119
+   ],
+   [
+      "López Mateos 15, Plaza, 98640 Trancoso, Zac., Mexico",
+      22.7322645,
+      -102.3659387
+   ],
+   [
+      "Villa de Cos, Zac., Mexico",
+      23.2943621,
+      -102.3499958
+   ],
+   [
+      "Morfín Chávez, Centro, 99540 Villanueva, Zac., Mexico",
+      22.3575606,
+      -102.8834914
+   ],
+   [
+      "Miguel Hidalgo & Calle Séptima, Zona Centro, 31500 Cd Cuauhtémoc, Chih., Mexico",
+      28.4102489,
+      -106.8647587
+   ],
+   [
+      "Allende, Centro, 99900 Nochistlán de Mejía, Zac., Mexico",
+      21.3601929,
+      -102.8464529
+   ],
+   [
+      "Francisco García Salinas 123, Centro, 98960 Centro, Zac., Mexico",
+      22.1625249,
+      -101.9541751
+   ],
+   [
+      "Avenida de Sonora, 501, Tecnologica, 99020 Fresnillo, Zac., Mexico",
+      23.1826185,
+      -102.8779633
+   ],
+   [
+      "16 de Septiembre 13, Centro, 98480 Cañitas de Felipe Pescador, Zac., Mexico",
+      23.6068458,
+      -102.7268571
+   ],
+   [
+      "Chalchihuites Municipality, Zacatecas, Mexico",
+      23.4758302,
+      -103.8809881
+   ],
+   [
+      "María Morelos 24, San José de la Cañada, 98300 Juan Aldama, Zac., Mexico",
+      24.3010878,
+      -103.4099611
+   ],
+   [
+      "General Francisco R. Murguía, Zacatecas, Mexico",
+      23.9956171,
+      -103.0179141
+   ],
+   [
+      "Insurgentes, 98400 Río Grande, Zac., Mexico",
+      23.8266708,
+      -103.0306459
+   ],
+   [
+      "Victoria, Sain Alto, Zac., Mexico",
+      23.575092,
+      -103.2504018
+   ],
+   [
+      "Magnesio, 99100 Sombrerete, Zac., Mexico",
+      23.6358732,
+      -103.6481134
+   ],
+   [
+      "Hacienda de San Antonio de Padua 100, Lomas del Paraíso, Valparaíso, Zac., Mexico",
+      22.7711469,
+      -103.578174
+   ],
+   [
+      "Real de Valparaíso & Real de Sacramento, Camino Real, 98613 Guadalupe, Zac., Mexico",
+      22.756117,
+      -102.5052102
+   ],
+   [
+      "Heroico Colegio Militar 875, Benito Juárez, Culiacán Rosales, Sin., Mexico",
+      24.7997712,
+      -107.3777757
+   ],
+   [
+      "Av. Soledad Orozco 203, El Capullo, 45100 Zapopan, Jal., Mexico",
+      20.7185359,
+      -103.3870895
+   ],
+   [
+      "Av. Adolfo López Mateos 122, Sin Nombre de Col 25, Guadalupe, N.L., Mexico",
+      25.6754625,
+      -100.2152166
+   ],
+   [
+      "Blvrd 14 Sur, Puebla, Pue., Mexico",
+      19.0189735,
+      -98.2001556
+   ],
+   [
+      "Av. Pradera 1101, Aztecas, 37520 León, Gto., Mexico",
+      21.0982161,
+      -101.6498697
+   ],
+   [
+      "Av. Alfredo Barrera Vazquez & Av. 7, Residencial Pensiones, 97217 Mérida, Yuc., Mexico",
+      21.000689,
+      -89.6603157
+   ],
+   [
+      "Gerardo Varela 617, Lomas del Creston, 68048 Oaxaca de Juárez, Oax., Mexico",
+      17.0848456,
+      -96.722855
+   ],
+   [
+      "Av Instituto Politécnico Nacional 1669, Revolución IMSS, Gustavo A. Madero, 07760 Ciudad de México, CDMX, Mexico",
+      19.4736193,
+      -99.1379297
+   ],
+   [
+      "Calz. de los Misterios 225, Peralvillo, Cuauhtémoc, 06220 Ciudad de México, CDMX, Mexico",
+      19.460825,
+      -99.1275804
+   ],
+   [
+      "Calz de Guadalupe 712, Tepeyac Insurgentes, Gustavo A. Madero, 07020 Ciudad de México, CDMX, Mexico",
+      19.481946,
+      -99.1185156
+   ],
+   [
+      "Miguel Hidalgo, 25 de Julio, 07520 Ciudad de México, CDMX, Mexico",
+      19.4979451,
+      -99.0802472
+   ],
+   [
+      "Calz de Guadalupe 164, Peralvillo, Cuauhtémoc, 06240 Ciudad de México, CDMX, Mexico",
+      19.4606658,
+      -99.1270671
+   ],
+   [
+      "Av Instituto Politécnico Nacional 1669, Revolución IMSS, Gustavo A. Madero, 07760 Ciudad de México, CDMX, Mexico",
+      19.4736193,
+      -99.1379297
+   ],
+   [
+      "Ignacio Manuel Altamirano 115, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, Mexico",
+      19.435915,
+      -99.1635835
+   ],
+   [
+      "Claudio Bernard 85, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, Mexico",
+      19.4219034,
+      -99.149107
+   ],
+   [
+      "5 de Febrero 111, Centro, Cuauhtémoc, 06080 Centro, CDMX, Mexico",
+      19.4246601,
+      -99.1355872
+   ],
+   [
+      "Jalapa & Campeche, C. U. Benito Juárez, 06760 Ciudad de México, CDMX, Mexico",
+      19.410813,
+      -99.1597671
+   ],
+   [
+      "Manuel José Othón 169, Cuauhtémoc, 06800 Ciudad de México, CDMX, Mexico",
+      19.414241,
+      -99.1342223
+   ],
+   [
+      "Av. Veracruz, 06700 Ciudad de México, CDMX, Mexico",
+      19.4180125,
+      -99.1748189
+   ],
+   [
+      "Cuauhtémoc, Mexico City, CDMX, Mexico",
+      19.4356338,
+      -99.1495107
+   ],
+   [
+      "Guerrero, 06300 Mexico City, CDMX, Mexico",
+      19.4445231,
+      -99.1425423
+   ],
+   [
+      "Calle José Antonio Alzate 168, Agricultura, Miguel Hidalgo, 11360 Ciudad de México, CDMX, Mexico",
+      19.4482463,
+      -99.1650914
+   ],
+   [
+      "República de Perú 27, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Centro, CDMX, Mexico",
+      19.4393137,
+      -99.1382432
+   ],
+   [
+      "Calle Prol. Guerrero, Tlatelolco, Ciudad de México, CDMX, Mexico",
+      19.4570832,
+      -99.1447923
+   ],
+   [
+      "Guerrero, 06300 Mexico City, CDMX, Mexico",
+      19.4445231,
+      -99.1425423
+   ],
+   [
+      "Fernando Iglesias Calderón Numero 140, Jardín Balbuena, Venustiano Carranza, 15900 Ciudad de México, CDMX, Mexico",
+      19.413123,
+      -99.1055844
+   ],
+   [
+      "Circunvalación 60, Merced Balbuena, Cuauhtémoc, 15810 Ciudad de México, CDMX, Mexico",
+      19.4187767,
+      -99.1273702
+   ],
+   [
+      "Telecomunicaciones S/N, Leyes de Reforma 2da Sección, Área Federal Complejo de Telefonía, Iztapalapa, 09300 Iztapalapa, CDMX, Mexico",
+      19.3669492,
+      -99.0589882
+   ],
+   [
+      "Calle Ote. 144, Moctezuma 2da Secc, 15530 Ciudad de México, CDMX, Mexico",
+      19.4323478,
+      -99.1031928
+   ],
+   [
+      "Ermita Iztapalapa 786, Granjas San Antonio, Iztapalapa, 09070 Ciudad de México, CDMX, Mexico",
+      19.35629,
+      -99.1071703
+   ],
+   [
+      "Avenida Congreso de Chilpancingo Norte Sur S/N, Unidad Habitacional, Ermita Zaragoza, Iztapalapa, 09180 Ciudad de México, CDMX, Mexico",
+      19.3646312,
+      -98.9955419
+   ],
+   [
+      "Av San Lorenzo 278, Cerro de la Estrella, Iztapalapa, 09860 Ciudad de México, CDMX, Mexico",
+      19.3268816,
+      -99.0750011
+   ],
+   [
+      "Congreso de Chilpancingo Sur, Ermita Zaragoza, 09180 Ciudad de México, CDMX, Mexico",
+      19.3638362,
+      -98.9976844
+   ],
+   [
+      "Calle Enrique Contel, 09208 Ciudad de México, CDMX, Mexico",
+      19.3856988,
+      -99.0427444
+   ],
+   [
+      "Av. San Fernando 15, Toriello Guerra, Tlalpan, 14070 Ciudad de México, CDMX, Mexico",
+      19.2954662,
+      -99.1804418
+   ],
+   [
+      "Eugenia 230, Col del Valle Centro, Benito Juárez, 03100 Ciudad de México, CDMX, Mexico",
+      19.3886614,
+      -99.1722021
+   ],
+   [
+      "Patricio Sanz 51, código 2, Col del Valle Centro, Benito Juárez, 03103 Ciudad de México, CDMX, Mexico",
+      19.3981302,
+      -99.1689256
+   ],
+   [
+      "Calz. de Tlalpan 1983, Coyoacán, 04040 Ciudad de México, CDMX, Mexico",
+      19.3457561,
+      -99.1449446
+   ],
+   [
+      "Oriental 10, Coapa, Los Cedros, Coyoacán, 04800 Ciudad de México, CDMX, Mexico",
+      19.3144953,
+      -99.1145432
+   ],
+   [
+      "Privada Gral. G. Victoria 2, Tlalpan Centro I, Tlalpan, 14000 Ciudad de México, CDMX, Mexico",
+      19.2890035,
+      -99.1702831
+   ],
+   [
+      "Av. División del Nte. 3755, San Pablo Tepetlapa, Coyoacán, 04840 Ciudad de México, CDMX, Mexico",
+      19.3198758,
+      -99.1390235
+   ],
+   [
+      "Ermita Iztapalapa 67, sineo, Ermita, Benito Juárez, 03590 Ciudad de México, CDMX, Mexico",
+      19.3596428,
+      -99.1401783
+   ],
+   [
+      "Fernández Leal 11, La Concepción, Coyoacán, 04100 Ciudad de México, CDMX, Mexico",
+      19.3470026,
+      -99.1588377
+   ],
+   [
+      "Gladiolas 158, San Pedro, Xochimilco, 16090 Ciudad de México, CDMX, Mexico",
+      19.2568952,
+      -99.1083395
+   ],
+   [
+      "Av Tabasco, Santa Cruz, Villa Milpa Alta, CDMX, Mexico",
+      19.1936376,
+      -99.0170831
+   ],
+   [
+      "Barranca del Muerto 1182, Merced Gómez, Benito Juárez, 03930 Ciudad de México, CDMX, Mexico",
+      19.3631641,
+      -99.1886926
+   ],
+   [
+      "Av. Miguel Hidalgo, Ciudad de México, CDMX, Mexico",
+      19.2810967,
+      -99.1860096
+   ],
+   [
+      "Av. Universidad 1321, Florida, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+      19.358644,
+      -99.1726203
+   ],
+   [
+      "Álvaro Obregón, CDMX, Mexico",
+      19.3605334,
+      -99.2267067
+   ],
+   [
+      "Av. Cuitláhuac 548, Cuitlahuac, Azcapotzalco, 02500 Ciudad de México, CDMX, Mexico",
+      19.4717773,
+      -99.1658974
+   ],
+   [
+      "Gral. Felipe Ángeles, Ciudad de México, CDMX, Mexico",
+      19.3951848,
+      -99.1933851
+   ],
+   [
+      "Av. Marina Nacional 261, Tacuba, Miguel Hidalgo, 11410 Ciudad de México, CDMX, Mexico",
+      19.452248,
+      -99.1859479
+   ],
+   [
+      "Tlalnepantla, Centro de Azcapotzalco, 02000 Ciudad de México, CDMX, Mexico",
+      19.4822954,
+      -99.1879434
+   ],
+   [
+      "Calz Legaria 361, México Nuevo, Miguel Hidalgo, 11260 Ciudad de México, CDMX, Mexico",
+      19.451399,
+      -99.2019215
+   ],
+   [
+      "Lago Ontario 119, Legaria, Miguel Hidalgo, 11410 Ciudad de México, CDMX, Mexico",
+      19.4543697,
+      -99.1911172
+   ],
+   [
+      "Doctora 28, Tacubaya, Miguel Hidalgo, 11870 Ciudad de México, CDMX, Mexico",
+      19.4019727,
+      -99.1856871
+   ],
+   [
+      "Av Observatorio 222, Daniel Garza al Poniente, Miguel Hidalgo, 11830 Ciudad de México, CDMX, Mexico",
+      19.403272,
+      -99.1981907
+   ],
+   [
+      "Av. Revolución 537, San Pedro de los Pinos, Benito Juárez, 03800 Ciudad de México, CDMX, Mexico",
+      19.3896375,
+      -99.1862181
+   ],
+   [
+      "Félix Cuevas 540, Col del Valle Centro, Benito Juárez, 03100 Ciudad de México, CDMX, Mexico",
+      19.3720878,
+      -99.1713702
+   ],
+   [
+      "Calz. Ignacio Zaragoza 1711, Ejército Constitucionalista I II y III, Iztapalapa, 09220 Ciudad de México, CDMX, Mexico",
+      19.3886476,
+      -99.0451204
+   ],
+   [
+      "Av. Universidad 1321, Florida, Álvaro Obregón, 01030 Ciudad de México, CDMX, Mexico",
+      19.358644,
+      -99.1726203
+   ],
+   [
+      "Calle Barranca Seca 94, Segunda Secc, 90740 Zacatelco, Tlax., Mexico",
+      19.2058569,
+      -98.2495687
+   ],
+   [
+      "Av Siglo XXI 6102, Solidaridad I, 20196 Aguascalientes, Ags., Mexico",
+      21.8710477,
+      -102.245404
+   ],
+   [
+      "4 Oriente, Huatusco, Ver., Mexico",
+      19.1514262,
+      -96.9605766
+   ],
+   [
+      "Calle Ignacio Zaragoza, Texcaltitlán, Méx., Mexico",
+      18.9313164,
+      -99.9353988
+   ],
+   [
+      "Calle Ciruelos, Lázaro Cárdenas, 54900 Col Lázaro Cárdenas, Méx., Mexico",
+      19.6293679,
+      -99.1599287
+   ],
+   [
+      "Silvestre Revueltas 247, Nueva Tijuana, 22435 Tijuana, B.C., Mexico",
+      32.5461876,
+      -116.9334449
+   ],
+   [
+      "Emiliano Zapata, Morelos, Mexico",
+      18.8478608,
+      -99.1843676
+   ],
+   [
+      "Av. Benito Juárez 4321, Guadalupe Victoria, 67180 Guadalupe, N.L., Mexico",
+      25.667336,
+      -100.2157123
+   ],
+   [
+      "Jose Mariano Abasolo 524, Cabecera Municipal, 66050 Cd Gral Escobedo, N.L., Mexico",
+      25.8079736,
+      -100.3278044
+   ],
+   [
+      "Ahuehuete 505, Ángel Trías, 31203 Chihuahua, Chih., Mexico",
+      28.6582662,
+      -106.0992045
+   ],
+   [
+      "Av. Patria, Guadalajara, Jal., Mexico",
+      20.7134609,
+      -103.3689751
+   ],
+   [
+      "Avenida Universidad 1704, Universidad Sur, 89109 Tampico, Tamps., Mexico",
+      22.2699292,
+      -97.8585883
+   ],
+   [
+      "Calle del Mar 395, Torreón Residencial, 27268 Torreón, Coah., Mexico",
+      25.5263242,
+      -103.4005931
+   ],
+   [
+      "Av. Erick Paolo Martínez, Chetumal, Q.R., Mexico",
+      18.5245501,
+      -88.3125561
+   ],
+   [
+      "Av Osa Menor, San Andrés Cholula, Pue., Mexico",
+      19.0167135,
+      -98.2671348
+   ],
+   [
+      "Morelos, Canatlán, Dgo., Mexico",
+      24.5246824,
+      -104.7771366
+   ],
+   [
+      "Perif. Ote. Nte., 29950 Ocosingo, Chis., Mexico",
+      16.9142094,
+      -92.0930512
+   ],
+   [
+      "Yajalón, Chis., Mexico",
+      17.1734888,
+      -92.329558
+   ],
+   [
+      "Ponciano Rojas, 29520 Pichucalco, Chis., Mexico",
+      17.5140174,
+      -93.1180912
+   ],
+   [
+      "Los Laureles 3, Solidaridad, 30470 Villaflores, Chis., Mexico",
+      16.2222586,
+      -93.2810098
+   ],
+   [
+      "Motozintla de Mendoza, Chis., Mexico",
+      15.3691977,
+      -92.2458096
+   ],
+   [
+      "Vicente Guerrero, Durango, Mexico",
+      23.7321074,
+      -103.9832684
+   ],
+   [
+      "Av Estroncio, Durango, Dgo., Mexico",
+      24.0552166,
+      -104.6095875
+   ],
+   [
+      "Heroes de Chapultepec, Zona Centro, 34700 Cd Guadalupe Victoria, Dgo., Mexico",
+      24.4353975,
+      -104.1224329
+   ],
+   [
+      "Tomás Urbina, Villa Ocampo, Dgo., Mexico",
+      26.4402885,
+      -105.5099386
+   ],
+   [
+      "Durango, Rodeo, Dgo., Mexico",
+      25.1718856,
+      -104.552693
+   ],
+   [
+      "Av Juarez, Durango, Mexico",
+      25.9517084,
+      -105.3647923
+   ],
+   [
+      "Ameca, Jalisco, Mexico",
+      20.5476288,
+      -104.0466211
+   ],
+   [
+      "Anillo Perif. Nte. Manuel Gómez Morín & Av. Juan Pablo II, Unidad Fovissste, 45149 Zapopan, Jal., Mexico",
+      20.7377388,
+      -103.4029247
+   ],
+   [
+      "Teuchitlán, San Pedro Tlaquepaque, Jal., Mexico",
+      20.6056373,
+      -103.3534099
+   ],
+   [
+      "Jazmín 85, Nuevo Porvenir, 47882 Ocotlán, Jal., Mexico",
+      20.3437571,
+      -102.7654918
+   ],
+   [
+      "Paseo del Río Lerma 183, Loma Bonita, 47913 La Barca, Jal., Mexico",
+      20.2929825,
+      -102.5554552
+   ],
+   [
+      "San Cosme, Aguascalientes, Ags., Mexico",
+      21.9019055,
+      -102.2432636
+   ],
+   [
+      "Jazmín 24, Maravillas, 47204 Teocaltiche, Jal., Mexico",
+      21.4244502,
+      -102.5726565
+   ],
+   [
+      "Francisco Javier Ruvalcaba 40, Sayula, 49310 Sayula, Jal., Mexico",
+      19.8805945,
+      -103.5889439
+   ],
+   [
+      "Juan Valdivia 301, Del Sur, 48740 El Grullo, Jal., Mexico",
+      19.7983552,
+      -104.215257
+   ],
+   [
+      "México 100, Centro, 48450 Tomatlán, Jal., Mexico",
+      19.9361717,
+      -105.2464805
+   ],
+   [
+      "Nazas, Durango, Mexico",
+      25.2233099,
+      -104.1132013
+   ],
+   [
+      "Maclovio Sánchez, 35805 Cuencamé, Dgo., Mexico",
+      24.8673605,
+      -103.7000756
+   ],
+   [
+      "Aguascalientes, Mexico",
+      21.8852562,
+      -102.2915677
+   ],
+   [
+      "Francisco I. Madero 804, Zona Centro, 34420 Nuevo Ideal, Dgo., Mexico",
+      24.885969,
+      -105.0748659
+   ],
+   [
+      "76805, Avenida Universidad 402, Prados del Oriente, 76805 San Juan del Río, Qro., Mexico",
+      20.3869667,
+      -99.9458351
+   ],
+   [
+      "Pueblo Nuevo, 34947 El Salto, Dgo., Mexico",
+      23.7697772,
+      -105.3680084
+   ],
+   [
+      "Cuauhtémoc s/n, Centro, 35600 Santa Catarina de Tepehuanes, Dgo., Mexico",
+      25.3426895,
+      -105.7231064
+   ],
+   [
+      "Zaragoza, Mapimí, Dgo., Mexico",
+      25.8298133,
+      -103.8493338
+   ],
+   [
+      "Chiapas, Mexico",
+      16.7569318,
+      -93.1292353
+   ],
+   [
+      "Tonalá, 30500 Tonalá, Chis., Mexico",
+      16.0974443,
+      -93.7501309
+   ],
+   [
+      "Segunda Sur Ote., Tapilula, Chis., Mexico",
+      17.2473848,
+      -93.0154658
+   ],
+   [
+      "3ra Pte. Sur, Hular, 30580 Acapetahua, Chis., Mexico",
+      15.2798373,
+      -92.6910715
+   ],
+   [
+      "La Huerta, Jal., Mexico",
+      19.4833804,
+      -104.6430404
+   ],
+   [
+      "Juárez Oriente 60, Centro, 48000 Unión de Tula, Jal., Mexico",
+      19.9560561,
+      -104.266761
+   ],
+   [
+      "Blvd. Gral. Marcelino García Barragán 715, Unidad Modelo, 44420 Guadalajara, Jal., Mexico",
+      20.6598915,
+      -103.3304164
+   ],
+   [
+      "San Miguel el Alto, Jalisco, Mexico",
+      21.0297575,
+      -102.4040252
+   ],
+   [
+      "Independencia Pte. & Romo de Vivar Nte., Centro, 20300 San Francisco de los Romo, Ags., Mexico",
+      22.0796274,
+      -102.2755665
+   ],
+   [
+      "Galeana & Ecuador, Barrio de la Asuncion, 62840 Atlatlahucan, Mor., Mexico",
+      18.9336397,
+      -98.9006057
+   ],
+   [
+      "Calle Cholula 305, Azteca, 37520 León, Gto., Mexico",
+      21.0980044,
+      -101.648898
+   ],
+   [
+      "Carlos a. Rivero & Amado Nervo, Los Guayparines, 85760 Alamos, Son., Mexico",
+      27.030407,
+      -108.9423392
+   ],
+   [
+      "Calle Graciano Sánchez & Av. Pino Suárez, Salubridad, 85281 Bacobampo, Son., Mexico",
+      26.9790358,
+      -109.6564061
+   ],
+   [
+      "Calle Profesor Germán Ibarra Ibarra S/N entre Ávila Camacho y Obregón Centro, Centro Habitacional, 85900 Huatabampo, Son., Mexico",
+      26.8238878,
+      -109.642356
+   ],
+   [
+      "Cuauhtémoc, 85280 Etchojoa, Son., Mexico",
+      26.91288,
+      -109.6298654
+   ],
+   [
+      "Francisco J. Múgica, Maravatio, Mich., Mexico",
+      19.9072091,
+      -100.4442135
+   ],
+   [
+      "Novena Pte., Miguel Hidalgo, 30890 Cacahoatán, Chis., Mexico",
+      14.9951639,
+      -92.168133
+   ],
+   [
+      "Ciudad Hidalgo, Chis., Mexico",
+      14.6796279,
+      -92.1525959
+   ],
+   [
+      "Miguel Alemán Sur, 30640 Huixtla, Chis., Mexico",
+      15.1334015,
+      -92.4610776
+   ],
+   [
+      "19 Calle Pte., Mapastepec, Chis., Mexico",
+      15.4506252,
+      -92.8902618
+   ],
+   [
+      "30580 Acapetahua, Chis., Mexico",
+      15.2795299,
+      -92.6906431
+   ],
+   [
+      "Salto de Agua, Chis., Mexico",
+      17.5539763,
+      -92.337935
+   ],
+   [
+      "Segunda Calle Nte. Pte., 30140 Frontera Comalapa, Chis., Mexico",
+      15.6625579,
+      -92.143226
+   ],
+   [
+      "Tercera Ote. Nte., Bochil, Chis., Mexico",
+      16.9985517,
+      -92.8866269
+   ],
+   [
+      "Cuarta Avenida Nte., Trinidad, 29620 Copainalá, Chis., Mexico",
+      17.0949164,
+      -93.2123322
+   ],
+   [
+      "Chiapa de Corzo, Chis., Mexico",
+      16.7021616,
+      -93.0081378
+   ],
+   [
+      "Av. Central, Chiapas, Mexico",
+      16.6109778,
+      -93.569382
+   ],
+   [
+      "Séptima Pte. Nte. & Carr. Panamericana, Cruz Blanca, 29140 Ocozocoautla de Espinosa, Chis., Mexico",
+      16.767991,
+      -93.3815744
+   ],
+   [
+      "Puerto de Guaymas, México, 85190 Cd Obregón, Son., Mexico",
+      27.4621561,
+      -109.94127
+   ],
+   [
+      "Colegio Militar, Vícam, Son., Mexico",
+      27.6437855,
+      -110.2906451
+   ],
+   [
+      "Villa Juárez, Sonora, Mexico",
+      27.1298849,
+      -109.8335818
+   ],
+   [
+      "Calle 21, Mérida, Yuc., Mexico",
+      21.0123021,
+      -89.6375766
+   ],
+   [
+      "Heroes de Nacozari 101, LA CANASTA, 34800 Villa Unión, Dgo., Mexico",
+      23.9689335,
+      -104.0498552
+   ],
+   [
+      "México 23, José Guadalupe Aguilera, Dgo., Mexico",
+      24.4539794,
+      -104.7093956
+   ],
+   [
+      "El Orito, 98160 Zacatecas, Zac., Mexico",
+      22.7785017,
+      -102.6200761
+   ],
+   [
+      "Guillermo Prieto 823, Ignacio Zaragoza, 27442 Matamoros, Coah., Mexico",
+      25.5215381,
+      -103.2356393
+   ],
+   [
+      "Calle Ignacio López Rayón, Santiago Jamiltepec, Oax., Mexico",
+      16.2837951,
+      -97.8227599
+   ],
+   [
+      "Nicolas Bravo, La Paz, B.C.S., Mexico",
+      24.1483774,
+      -110.3040471
+   ],
+   [
+      "Benito Juárez Municipality, Tlaxcala, Tlaxcala, Mexico",
+      19.5849129,
+      -98.4282811
+   ]
+]

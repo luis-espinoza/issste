@@ -1,0 +1,37 @@
+before_script:
+  - docker login -u $NEXUS_USER -p $NEXUS_PASS $NEXUS_HOST
+  - git config --global user.name "devops"
+  - git config --global user.email "devops@lkmx.io"
+  - export SSH_PUSH_REPO=`echo $CI_REPOSITORY_URL | perl -pe 's#.*@(.+?(\:\d+)?)/#ssh://git@\1:10022/#'`
+  - git remote set-url origin --push "$SSH_PUSH_REPO"
+  
+stages:
+  - test
+  - dev
+  - staging
+  - prod
+
+test:
+  stage: test
+  script:
+    - echo "TEST"
+  allow_failure: false
+  when: always
+  except:
+    - tags
+  tags:
+    - node
+
+dev:
+  stage: dev
+  allow_failure: false
+  when: manual
+  tags:
+    - node
+  script:
+    - npm install
+    - npm run build
+    - docker build -t $CI_PROJECT_PATH .
+    - docker tag $CI_PROJECT_PATH masamune.lkmx.io/$CI_PROJECT_PATH:latest
+    - docker push masamune.lkmx.io/$CI_PROJECT_PATH:latest
+    - docker rmi $CI_PROJECT_PATH masamune.lkmx.io/$CI_PROJECT_PATH:latest -f
